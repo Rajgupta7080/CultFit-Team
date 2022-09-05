@@ -1,0 +1,122 @@
+{
+  "bestseller": [
+    {
+      "id": 1,
+      "cname": "CULTSPORT",
+      "title": "FormFit High Impact Ivy Sports Bra",
+      "desc": "Your perfect training partner, this sports bra with its hidden stabilizer panels promises extra support and bounce control, especially during high impact activities. The power mesh allows for better ventilation and the hook & eye closure adds to your convenience while offering additional adjustability. Time to be fit with FormFit!",
+      "DETAILS": [
+        "Color: Black",
+        "Padded",
+        "High Impact",
+        "Detachable Straps For Criss Cross Option",
+        " Hook And Eye Closure"
+      ],
+      "price": 1499,
+      "strikePrice": 2499,
+      "discount": 40,
+      "thumbnail": "./product_page/10051.jpg",
+      "img1": "./product_page/10051/10001",
+      "img2": "./product_page/10051/10002",
+      "img3": "./product_page/10051/10003",
+      "img4": "./product_page/10051/10004",
+      "img5": "./product_page/10051/10005",
+      "img6": "./product_page/10051/10006"
+    },
+    {
+      "id": 2,
+      "cname": "CULTSPORT",
+      "title": "Vitals Running T-Shirt",
+      "desc": "Run your own race, defy the norms and cook up a storm in this workout T-shirt.Meant to move with you, this combines design and technology to deliver a performance as impressive as yours.",
+      "DETAILS": [
+        " Color: Grey",
+        "Fabric:65% Cotton, 35% Polyester",
+        "Bio Wash",
+        "Breathable Fabric"
+      ],
+      "price": 824,
+      "strikePrice": 1499,
+      "discount": 45,
+      "thumbnail": "./product_page/10052.jpg",
+      "img1": "./product_page/10052/10001",
+      "img2": "./product_page/10052/10002",
+      "img3": "./product_page/10052/10003",
+      "img4": "./product_page/10052/10004",
+      "img5": "./product_page/10052/10005",
+      "img6": "./product_page/10052/10006"
+    },
+    {
+      "id": 3,
+      "cname": "CULTSPORT",
+      "title": "FormFit High Impact Ivy Sports Bra",
+      "desc": "Your perfect training partner, this sports bra with its hidden stabilizer panels promises extra support and bounce control, especially during high impact activities. The power mesh allows for better ventilation and the hook & eye closure adds to your convenience while offering additional adjustability. Time to be fit with FormFit!",
+      "DETAILS": [
+        "Color: Pink",
+        "Padded",
+        "High Impact",
+        "Detachable Straps For Criss Cross Option",
+        "Hook And Eye Closure"
+      ],
+      "price": 1499,
+      "strikePrice": 2499,
+      "discount": 45,
+      "thumbnail": "./product_page/10053.jpg",
+      "img1": "./product_page/10053/10001",
+      "img2": "./product_page/10053/10002",
+      "img3": "./product_page/10053/10003",
+      "img4": "./product_page/10053/10004",
+      "img5": "./product_page/10053/10005",
+      "img6": "./product_page/10053/10006"
+    },
+    {
+      "id": 4,
+      "cname": "CULTSPORT",
+      "title": "LAYR Solid Sweatshirt",
+      "desc": "Beat the chills and say hello to the toasty winters with the Cultsport Lifestyle Sweatshirt. Designed to be the perfect 2nd layer 365 days a year. Its time to get all snuggled up",
+      "DETAILS": [
+        "Colour: Black",
+        "Fabric: 95% Cotton 5% Spandex",
+        "Bio Wash",
+        "Attached closed thumb for better fit"
+      ],
+      "price": 1649,
+      "strikePrice": 3299,
+      "discount": 50,
+      "thumbnail": "./product_page/10006.jpg",
+      "img1": "./product_page/10006/10001",
+      "img2": "./product_page/10006/10002",
+      "img3": "./product_page/10006/10003",
+      "img4": "./product_page/10006/10004",
+      "img5": "./product_page/10006/10005",
+      "img6": "./product_page/10006/10006"
+    },
+    {
+      "id": 5,
+      "cname": "CULTSPORT",
+      "title": "Ombre Logo Active T-shirt",
+      "desc": "Beat the chills and say hello to the toasty winters with the Cultsport Lifestyle Sweatshirt. Designed to be the perfect 2nd layer 365 days a year. Its time to get all snuggled up",
+      "DETAILS": [
+        "Colour: Black",
+        "Fabric: 95% Cotton 5% Spandex",
+        "Bio Wash",
+        "Attached closed thumb for better fit"
+      ],
+      "price": 1649,
+      "strikePrice": 3299,
+      "discount": 50,
+      "thumbnail": "./product_page/10006.jpg",
+      "img1": "./product_page/10006/10001",
+      "img2": "./product_page/10006/10002",
+      "img3": "./product_page/10006/10003",
+      "img4": "./product_page/10006/10004",
+      "img5": "./product_page/10006/10005",
+      "img6": "./product_page/10006/10006"
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    }
+  ]
+}
