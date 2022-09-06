@@ -1,11 +1,8 @@
-import { getdata, navbar, showdata } from "../utility.js";
+import { crousel, getdata, navbar, showdata } from "../utility.js";
 
 document.getElementById("navbar").innerHTML = navbar;
-// function get() {
-//   console.log("mememememem");
-// }
-//
-// fun();
+document.getElementById("crousel").innerHTML = crousel;
+// ********** Product Data**************
 const bestseller = await getdata("bestseller");
 showdata(bestseller, "BESTSELLERS", "LOVED BY CULT MEMBERS");
 const Just_launched = await getdata("Just_launched");
@@ -16,3 +13,12 @@ const SPINBIKES = await getdata("SPINBIKES");
 showdata(SPINBIKES, "SPINBIKES", "LOVED BY CULT MEMBERS");
 const Cycles = await getdata("Cycles");
 showdata(Cycles, "CYCLES", "LOVED BY CULT MEMBERS");
+
+//*****************NAvbar options*********** */
+
+const goto = () => {
+  window.location = "mens.html";
+  console.log("mee");
+};
+document.getElementById("men").addEventListener("click", goto);
+document.getElementById("men1").addEventListener("click", goto);

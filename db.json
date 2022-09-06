@@ -952,5 +952,97 @@
       "img5": "./product_page/10037/10005",
       "img6": "./product_page/10037/10006"
     }
+  ],
+  "Mens": [
+    {
+      "id": 1,
+      "images": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/rb15xtEC9kVCwma2EG7X29PA",
+      "Title": "CULTSPORT",
+      "Para": "Vitals Running T-Shirt",
+      "price": 879,
+      "strikePrice": 1599,
+      "discount": 45
+    },
+    {
+      "id": 2,
+      "images": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/gyEKit98fH6VGSZ2jv1fFkSm",
+      "Title": "CULTSPORTONE",
+      "Para": "Textured Performance Tshirt with Logo",
+      "price": 1199,
+      "strikePrice": 1999,
+      "discount": 40
+    },
+    {
+      "id": 3,
+      "images": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/kCA2rugUPWKLcJFepU65r3Ty",
+      "Title": "CULTSPORT",
+      "Para": "Branding Logo Graphic Tshirt",
+      "price": 879,
+      "strikePrice": 1599,
+      "discount": 45
+    },
+    {
+      "id": 4,
+      "images": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/3BvAwGdmm6TEp86zcaF3gkF5",
+      "Title": "CULTSPORT",
+      "Para": "Dance Graphic Print Workout Tshirt",
+      "price": 1199,
+      "strikePrice": 1999,
+      "discount": 40
+    },
+    {
+      "id": 5,
+      "images": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/GTsdULwpCrv1hFMNDgQ5vrsP",
+      "Title": "CULTSPORT",
+      "Para": "Vitals Lifestyle Polo Tshirt",
+      "price": 1499,
+      "strikePrice": 2499,
+      "discount": 40
+    },
+    {
+      "id": 6,
+      "images": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/koPLqbxY9fKvoS7WjiojFKVg",
+      "Title": "CULTSPORT",
+      "Para": "Vitals Lifestyle Polo Tshirt",
+      "price": 879,
+      "strikePrice": 1599,
+      "discount": 45
+    },
+    {
+      "id": 7,
+      "images": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/koPLqbxY9fKvoS7WjiojFKVg",
+      "Title": "CULTSPORT",
+      "Para": "Vitals Lifestyle Polo Tshirt",
+      "price": 1199,
+      "strikePrice": 1999,
+      "discount": 40
+    },
+    {
+      "id": 8,
+      "images": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/WoJc353LB1KFvhMkU8cGmyj3",
+      "Title": "CULTSPORT",
+      "Para": "Vitals Lifestyle T-Shirt",
+      "price": 879,
+      "strikePrice": 1599,
+      "discount": 45
+    },
+    {
+      "id": 9,
+      "images": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/Ban4au2ihUVE29FdmGTTycgY",
+      "Title": "CULTSPORT",
+      "Para": "Vitals Logo Running T-Shirt",
+      "price": 1499,
+      "strikePrice": 2499,
+      "discount": 40
+    },
+    {
+      "id": 10,
+      "images": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/Yfxf1rcYjWiHBmPU7y61aHoa",
+      "Title": "CULTSPORT",
+      "Para": "Vitals Lifestyle Polo T-Shirt",
+      "price": 879,
+      "strikePrice": 1599,
+      "discount": 45
+    }
   ]
 }

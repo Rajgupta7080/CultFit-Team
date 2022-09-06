@@ -52,47 +52,31 @@ a {
   justify-content: space-evenly;
 }
 /* *********Crousel***** */
+#crousel {
+  width: 90%;
+  /* height: 300px; */
+  margin: auto;
+  margin-top: 5px;
+}
 #slide1 {
-  content: url("./product_page/10002.jpg");
+  content: url("./product_page/10002/10001.jpg");
 }
 #slide2 {
-  content: url("./product_page/10003.jpg");
+  content: url("./product_page/10002/10002.jpg");
 }
 #slide3 {
-  content: url("./product_page/10004.jpg");
+  content: url("./product_page/10002/10003.jpg");
 }
 #slide4 {
-  content: url("./product_page/10005.jpg");
+  content: url("./product_page/10002/10002.jpg");
 }
 
 /* **********Cards*********** */
 #container {
   width: 90%;
   margin: auto;
-
+  margin-top: 30px;
   /* border: 1px solid red; */
-}
-#container > h2 {
-  margin-top: 100px;
-  font-weight: 700;
-}
-#container > h4 {
-  margin-top: -10px;
-
-  margin-bottom: 40px;
-
-  display: flex;
-  justify-content: space-between;
-}
-#container > h4 > div {
-  margin-right: 10px;
-}
-#container > h4 > div > i {
-  margin-left: 10px;
-  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
-    rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
-  padding: 5px;
-  border-radius: 15px;
 }
 #container > div {
   width: 100%;
@@ -101,7 +85,7 @@ a {
   gap: 10px;
   overflow: hidden;
 }
-#container > div > div > img {
+#container > div > div > div img {
   width: 100%;
 }
 #container > div > div {
@@ -192,8 +176,8 @@ p {
 }
 @media (min-width: 426px) and (max-width: 768px) {
   /* #navbar > :nth-child(2) {
-    font-size: 0.7em;
-  } */
+      font-size: 0.7em;
+    } */
 
   #navbar {
     /* flex-direction: row; */
@@ -221,8 +205,8 @@ p {
     flex-direction: column;
   }
   /* #navbar > :last-child {
-    display: none;
-  } */
+      display: none;
+    } */
   #collapse {
     display: flex;
     flex-direction: column;
