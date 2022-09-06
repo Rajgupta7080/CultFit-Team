@@ -1,0 +1,234 @@
+#labButton{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    color: white;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    padding: 14px;
+    margin-top: 70px;
+    background: #393a3b ;
+    z-index: 2;
+    overflow: hidden;
+}
+#lab{
+  /* border: 1px solid red; */
+  background-color:#161923;
+  padding: 7px 18px 7px 18px;
+  border-radius: 5px;
+}
+#headerImg{
+    margin-top: 136px;
+    cursor: pointer;
+}
+#headerImg>img{
+    width: 100%;
+    margin-bottom: -15px;
+}
+#timer{
+    display: flex;
+    background: #Ececec;
+    padding: 20px;
+    margin-top: -10px;
+  align-items: baseline;
+  justify-content: center;
+  gap: 15px;
+}
+#timer span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#hour,#minute,#second{
+    font-size: 25px;
+    font-weight: bold;
+}
+#spaceTag{
+    font-size: 20px;
+}
+.text{
+    font-size: 14px;
+    color: #a7a8ab;
+}
+
+#arrow{
+    position: relative;
+    color: #Ff3278;
+    font-weight: 1000;
+    font-size: 23px;
+    left: 640px;
+}
+#container{
+    padding: 30px 70px 30px 70px;
+}
+#labImg{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    row-gap: 50px;
+    margin-top: 40px;
+    cursor: pointer;
+    /* border-bottom: 3px solid black;
+    border-color: #D8d8d8; */
+}
+hr{
+    color: #D8d8d8;
+    width: 85%;
+    font-weight: 700;
+    margin: auto;
+    margin-top: -15px;
+}
+#Labpic{
+    width: 245px;
+    height: 310px;
+    border-radius: 5px;
+    transition: 0.5s all ease-in-out;
+    overflow: hidden;
+}
+#Labpic:hover{
+    transform: scale(0.97);
+}
+
+#PriceDiv{
+display: flex;
+/* border: 2px solid black; */
+justify-content: space-between;
+width: 89%;
+align-items: center;
+margin-bottom: -13px;
+font-weight: 700;
+}
+#OfferDiv{
+    display: flex;
+/* border: 2px solid black; */
+justify-content: space-between;
+width: 88%;
+align-items: center;
+font-weight: 700;
+}
+#SeniorCitizen{
+    padding: 30px 70px 30px 70px;
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+}
+#tfs{
+    padding: 0px 70px 0px 70px;
+}
+/* h2{
+    letter-spacing: 1.5px;
+    font-weight: 500;
+    padding: 0px 70px 0px 70px;
+    margin-top: 50px;
+} */
+#QuickLinks{
+    padding: 0px 70px 0px 70px;
+    display: grid;
+    cursor: pointer;
+}
+#QuickLinks > h1{
+    margin-bottom: -5px;
+    font-size: 23px;
+    color: 
+    #33363f;
+}
+#hr{
+    width: 100%;
+    margin-top: 1px;
+}
+#faq {
+    width: 100%;
+    margin: auto;
+    /* height: 100vw; */
+    margin-top:50px ;
+    /* border: 1px solid blue; */
+    background-color: #161923;
+}
+
+#faqContainer {
+    width: 85%;
+    margin: auto;
+    /* border: 1px solid blue; */
+    padding: 60px;
+}
+#f{
+    font-size: 60px;
+    color: white;
+}
+
+#parent>div {
+    border-bottom: 1px solid silver;
+}
+
+#flex1,
+#flex2,
+#flex3,
+#flex4,
+#flex5,
+#flex6,
+#flex7,
+#flex8,
+#flex9,
+#flex10,
+#flex11,
+#flex12 {
+    display: flex;
+    justify-content: space-between;
+    /* margin: 30px 0 ; */
+}
+
+#parent>div>div>p{
+    font-size: 20px;
+    font-family: Inter-Medium, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    
+}
+
+#parent>div> :last-child {
+    font-size: 15px;
+    font-family: Inter-Medium, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+
+
+}
+#best{
+    color: rgb(110, 110, 110);;
+    font-size: 80px;
+    font-weight: 1000;
+    line-height: 1.2;
+    margin-top: 45px;
+}
+#d{
+    color: rgb(204, 204, 204);
+    font-size: 60px;
+    font-weight: 1000;
+    margin-top: -70px;
+    letter-spacing: 4px;
+}
+#l{
+    color: rgb(204, 204, 204);
+    font-size: 40px;
+    margin-top: -55px;
+    font-weight: 1000;
+    letter-spacing: 2px;
+}
+#upperfooter{
+    display: flex;
+    background-color:#161923;
+    align-content: center;
+    justify-content: space-evenly;
+    padding: 30px 120px 30px 120px;
+    /* border: 2px solid crimson; */
+    column-gap: 40px;
+}
+#one{
+    color: white;
+}
+#des,#des1{
+    line-height: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#first,#second{
+    /* border: 5px solid crimson; */
+    width: 40%;
+}
