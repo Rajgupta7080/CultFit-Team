@@ -205,12 +205,15 @@ font-weight: 700;
     display: grid;
     grid-template-columns: repeat(5,1fr);
 }
-h2{
+#tfs{
+    padding: 0px 70px 0px 70px;
+}
+/* h2{
     letter-spacing: 1.5px;
     font-weight: 500;
     padding: 0px 70px 0px 70px;
     margin-top: 50px;
-}
+} */
 #QuickLinks{
     padding: 0px 70px 0px 70px;
     display: grid;
@@ -226,25 +229,58 @@ h2{
     width: 100%;
     margin-top: 1px;
 }
-#faq{
-    background-color: #171a26;
-    height: 700px;
-    margin-top: 70px;
+#faq {
+    width: 100%;
+    margin: auto;
+    /* height: 100vw; */
+    margin-top:50px ;
+    /* border: 1px solid blue; */
+    background-color: #161923;
 }
-#faq > div{
-    display: flex;
+
+#faqContainer {
+    width: 85%;
+    margin: auto;
+    /* border: 1px solid blue; */
+    padding: 60px;
+}
+#f{
+    font-size: 60px;
     color: white;
-    padding: 0px 70px 0px 70px;
+}
+
+#parent>div {
+    border-bottom: 1px solid silver;
+}
+
+#flex1,
+#flex2,
+#flex3,
+#flex4,
+#flex5,
+#flex6,
+#flex7,
+#flex8,
+#flex9,
+#flex10,
+#flex11,
+#flex12 {
+    display: flex;
     justify-content: space-between;
-    align-items: center;
+    /* margin: 30px 0 ; */
 }
-#faq > div > h4{
-    font-size: 50px;
-    font-weight: bolder;
-}
-#faq > div > h5{
+
+#parent>div>div>p{
     font-size: 20px;
-    cursor: pointer;
+    font-family: Inter-Medium, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    
+}
+
+#parent>div> :last-child {
+    font-size: 15px;
+    font-family: Inter-Medium, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+
+
 }
 #best{
     color: rgb(110, 110, 110);;
@@ -281,6 +317,7 @@ h2{
 }
 #des,#des1{
     line-height: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 #first,#second{
     /* border: 5px solid crimson; */
