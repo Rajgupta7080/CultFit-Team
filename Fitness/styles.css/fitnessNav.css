@@ -1,7 +1,11 @@
 /* top nav */
+
 * {
     margin: 0;
     padding: 0;
+    font-family: 
+    Inter-Medium, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    
 }
 
 body {
@@ -299,8 +303,16 @@ h3 {
 
 .imgCard>img {
     width: 100%;
+
+}
+.imgCard{
+    transition: 0.3s all ease-in-out;
 }
 
+.imgCard:hover{
+   transform: scale(1.1);
+   /* overflow: hidden; */
+}
 .imgCardDown {
     padding-bottom: 5px;
     border-radius: 8px;
@@ -338,7 +350,7 @@ h3 {
     margin: auto;
     /* height: 100vw; */
     margin-top:50px ;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
 }
 
 #faqContainer {
@@ -380,4 +392,35 @@ h3 {
     font-family: Inter-Medium, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
 
 
+}
+table{
+    /* border:1px solid crimson; */
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 25px;
+    line-height: 1.42857143;
+    color:white; 
+    /* background-color:  #333; */
+    width:90%;
+    margin: auto;
+}
+/* table{
+    back
+} */
+.imgCardFlexibleTable{
+    /* border: 2px solid orangered; */
+    /* background-color:white; */
+    /* background-image: url("../images/efb972eb-cb69-4ed6-9bc7-8d68653dd0fd.jpeg"); */
+}
+table button{
+    padding: 10px;
+    border-radius: 4px;
+    color: rgb(208, 64, 64);
+    border: none;
+    font-weight: 800;
+}
+.tbodyLastRowButton{
+    color: rgb(208, 64, 64);
+}
+.tbodyLastRowButton:hover{
+    color: black;
 }
