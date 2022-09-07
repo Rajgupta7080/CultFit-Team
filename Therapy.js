@@ -13,6 +13,7 @@ Therapydata()
 
 function append() {
   const therapy = JSON.parse(localStorage.getItem('Therapy'))
+  console.log(therapy)
   therapy.map((el) => {
     const main_div = document.createElement('div')
     const Image = document.createElement('img')
@@ -55,6 +56,7 @@ function append() {
   })
 }
 append()
+
 document.getElementById('flex1').addEventListener('click', p1)
 document.getElementById('flex2').addEventListener('click', p2)
 document.getElementById('flex3').addEventListener('click', p3)
