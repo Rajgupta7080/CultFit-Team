@@ -1,4 +1,4 @@
-import { crousel, getdata, navbar, showdata } from "../utility.js";
+import { crousel, getdata, navbar, showdata } from "./utility.js";
 
 document.getElementById("navbar").innerHTML = navbar;
 document.getElementById("crousel").innerHTML = crousel;
