@@ -65,8 +65,44 @@ id="home1"
 <div>Smart Equipment</div>
 </div>
 <div>
-<a id="user" href=""><i class="fa-regular fa-user"></i></a>
-<a id="cart" href=""><i class="fa-solid fa-cart-shopping"></i></a>
+<i style="margin-top:5px;" class="fa-regular fa-user"></i>
+
+<button
+      class="btn btn-primary position-relative"
+      type="button"
+      data-bs-toggle="offcanvas"
+      data-bs-target="#offcanvasRight"
+      aria-controls="offcanvasRight"
+      
+      id="cart"
+    >
+      
+
+      <i class="fa-solid fa-cart-shopping fa-lg"> </i>
+        <span id="cartno" class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
+          0
+          <span class="visually-hidden">unread messages</span>
+        </span>
+      
+
+    </button>
+
+    <div
+      
+      class="offcanvas offcanvas-end"
+      tabindex="-1"
+      id="offcanvasRight"
+      data-bs-scroll="true"
+      data-bs-backdrop="false"
+      aria-labelledby="offcanvasRightLabel"
+    >
+      
+      <div id="CartSlide">Cart Page</div>
+    </div>
+
+
+
+ 
 </div>`;
 
 export const crousel = `
@@ -141,11 +177,25 @@ export const getdata = async (name) => {
   const data2 = await data.json();
   return data2;
 };
+let flag = true;
+// *******************Arrow Fuction********************
+const changedata = async (category, line, appendin) => {
+  console.log(name);
+  if (flag) {
+    flag = false;
+  } else {
+    flag = true;
+  }
+  console.log(flag);
+  const bestseller = await getdata(appendin);
+  b = true;
+  showdata(bestseller, category, line, appendin);
+  // console.log(data);
+  // showdata(data, category, line);
+};
 
-export const showdata = (data, category, line) => {
-  console.log(data);
-  data.splice(4, 7);
-
+// ******************BEfore show data the arrows appw**********************
+export const beforeshowdata = (category, line, appendin) => {
   const h2 = document.createElement("h2");
   h2.innerText = category;
   const h4 = document.createElement("h4");
@@ -154,13 +204,40 @@ export const showdata = (data, category, line) => {
   const h4div = document.createElement("div");
   const i1 = document.createElement("i");
   i1.setAttribute("class", "fa-solid fa-arrow-left fa-xl");
+  i1.addEventListener("click", () => {
+    changedata(category, line, appendin);
+  });
 
-  //   <i class="fa-solid fa-arrow-right fa-xl"></i>
   const i2 = document.createElement("i");
   i2.setAttribute("class", "fa-solid fa-arrow-right fa-xl");
+  i2.addEventListener("click", () => {
+    changedata(category, line, appendin);
+  });
   h4div.append(i1, i2);
   h4.append(span, h4div);
+
+  document.getElementById("container").append(h2, h4);
+};
+
+// *******************************
+let b = false;
+
+// **********************DIsplay Data main Page***************
+export const showdata = (data, category, line, appendin) => {
+  try {
+    document.getElementById(appendin).innerHTML = "";
+    b = true;
+  } catch (err) {
+    console.log("first");
+  }
+  console.log(data);
+  if (flag) {
+    data.splice(4, 7);
+  } else {
+    data.splice(0, 4);
+  }
   const div = document.createElement("div");
+  div.setAttribute("id", `${appendin}`);
   data.map((elem, id) => {
     const card = document.createElement("div");
 
@@ -183,15 +260,22 @@ export const showdata = (data, category, line) => {
     card.append(img, h5, p, div1);
 
     card.addEventListener("click", function () {
-      console.log(id);
+      console.log(elem.id);
       console.log(category);
+      DisplayProduct(elem);
     });
-    div.append(card);
+    // console.log(appendin);
+    if (b) {
+      document.getElementById(appendin).append(card);
+    } else {
+      div.append(card);
+    }
   });
-
-  document.getElementById("container").append(h2, h4, div);
+  if (!b) {
+    document.getElementById("container").append(div);
+  }
 };
-
+// ************************Display data other pages**********************
 export const showdataformen = (data) => {
   console.log(data);
 
@@ -220,3 +304,9 @@ export const showdataformen = (data) => {
 function additem(elem) {
   console.log(elem);
 }
+
+const DisplayProduct = (elem) => {
+  window.location = "productdisplay.html";
+  console.log(elem);
+  localStorage.setItem("Product", JSON.stringify(elem));
+};
