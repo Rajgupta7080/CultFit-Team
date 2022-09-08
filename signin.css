@@ -6,9 +6,10 @@ body{
   #contain{
     display:flex;
     height: 820px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+  
   } 
-  .box{
+   .box{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: #0d0f12;
     color: white; 
@@ -16,6 +17,7 @@ body{
     height:80%;
     padding: 70px;
     padding-left: 100px;
+  
   }
   .box > img{
     margin-bottom: 50px;
@@ -28,21 +30,28 @@ body{
   } */
   input{
     background-color: #0d0f12;
-    border:1px solid gray;
-    margin-bottom: 30px ;
+    /* border:2px solid lightblue; */
+    margin-bottom: 40px ;
     height: 35px;
-    width: 350px;
+    width: 80%;
     color: white;
+    border-radius: 8px solid lightblue;
+
+    
+    
   } 
   
   input[type= "submit"]{
     background-color:#0084bd; 
     border: 0px;
-    border-radius: 2px;
+    border-radius: 2px solid lightblue;
     height:40px;
+    width: 80%;
     color: white;
     padding-right: 105px;
     padding-left: 105px;
+
+    
   }
   p {
     color: white;
@@ -63,11 +72,27 @@ body{
   } 
   button{
     /* margin-left: 5px; */
-    width: 350px;
+    width: 80%;
     height:40px;
     font-size: 14px;
-    border-radius: 2px;
-    background-color: gray;
+    /* background-color: gray; */
     color: white;
+    border-radius: 8px solid lightblue;
+    background: linear-gradient(to right,#F05A28,#EC008C,#28f0ed);
   } 
-  
+
+
+  @media only screen and (max-width:1000px){
+    .backimg{
+      display:none;
+    }
+    .box{
+      width: 100%;
+      padding:10px;
+      
+    }
+    #bottompara{
+      width: 80%;
+    }
+
+  }

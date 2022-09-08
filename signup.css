@@ -6,7 +6,7 @@ body{
 #contain{
   display:flex;
   height: 820px;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;    
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;   
 } 
 .box{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -16,18 +16,22 @@ body{
   height:80%;
   padding: 70px;
   padding-left: 120px;
+
 }
 h2{
   text-align: center;
   margin-bottom: 3%;
+  text-decoration: underline;
+
 }
 input{
   background-color: #0d0f12;
-  border:1px solid gray;
   margin-bottom: 30px ;
   height: 35px;
   width: 350px;
   color: white;
+  border-radius: 8px solid lightblue;
+
 } 
 .box > img{
   margin-bottom: 50px;
@@ -36,13 +40,14 @@ input{
  
 }  
 input[type= "submit"]{
-  background-color:#0084bd; 
-  border: 0px;
-  border-radius: 2px;
-  height:40px;
+  border: none;
+  height:35px;
   color: white;
-  padding-right: 105px;
-  padding-left: 105px;
+  /* padding-right: 105px;
+  padding-left: 105px; */
+  width: 350px;
+  border-radius: 8px;
+  background: linear-gradient(to right,#F05A28,#EC008C,#28f0ed);
 }
 p a{
   color: #0084bd;
@@ -62,15 +67,18 @@ p a{
   margin-top: 170px;
   margin-bottom: 30px;
 } 
-/* button{
-  margin-left: 100px;
-  width: 200px;
-  height:40px;
-  font-size: 14px;
-  border-radius: 2px;
-  background: linear-gradient(to right,#F05A28,#EC008C,#F05A28);
-  color: white;
-}  */
+
 /* .submit:hover {
   cursor: pointer;
 } */
+@media only screen and (max-width:1000px){
+  .backimg{
+    display:none;
+  }
+  .box{
+    width: 100%;
+    padding:10px;
+  }
+
+
+}

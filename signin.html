@@ -1,47 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Sign In</title>
-    <link rel="stylesheet" href="signin.css">
-</head>
+    <link rel="stylesheet" href="signin.css" />
+  </head>
 
-<body>
+  <body>
     <div id="contain">
-        <div class="box">
-            <img
-            src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_75,ar_1,q_auto:eco,dpr_1.25,f_auto,fl_progressive//image/test/brand-logo/curefit-logo-white.svg"
-            alt="name"
+      <div class="box">
+        <img
+          src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_75,ar_1,q_auto:eco,dpr_1.25,f_auto,fl_progressive//image/test/brand-logo/curefit-logo-white.svg"
+          alt="name"
+        />
+        <img
+          src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_135,ar_3.55,q_auto:eco,dpr_1.25,f_auto,fl_progressive//image/test/brand-logo/cf-name-white.png"
+          alt="logo"
+        />
+        <form>
+          Email or Username<br /><br />
+          <input type="email" id="email" placeholder="Enter your Email" /><br />
+          Password<br /><br />
+          <input
+            type="password"
+            id="password"
+            placeholder="Enter your Password"
+          /><br />
+          Phone Number<br /><br />
+          <input
+            type="phone"
+            id="phone"
+            placeholder="Enter your phone number"
+          /><br />
+          <input
+            class="submit"
+            onclick="adduser()"
+            type="submit"
+            value="Sign In"
           />
-          <img
-            src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_135,ar_3.55,q_auto:eco,dpr_1.25,f_auto,fl_progressive//image/test/brand-logo/cf-name-white.png"
-            alt="logo"
-          />
-            <form>
-                Email or Username<br>
-                <input type="email" id="email" placeholder="Enter your Email" /><br>
-                Password<br>
-                <input type="password" id="password" placeholder="Enter your Password"/><br>
-                Phone Number<br>
-                <input type="phone" id="phone" placeholder="Enter your phone number"/><br>
-                <input class="submit" onclick="adduser()" type="submit" value="Sign In">
-                
-                
-                <button id="account">Create an Account</button>
-                <p >* By Continue you agree to the  <a href="#">Terms of Services and Privacy policy.</p></a>
-            
 
-            </form>
-        </div>
-        <div class="backimg">
-            <img src="https://images.unsplash.com/photo-1550345332-09e3ac987658?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" /><br>
-            
-                </div>
-        </div>
+          <button id="account">Create an Account</button>
+          <p>
+            * By Continue you agree to the
+            <a href="#">Terms of Services and Privacy policy.</a>
+          </p>
+        </form>
+      </div>
+      <div class="backimg">
+        <img 
+          src="https://images.unsplash.com/photo-1550345332-09e3ac987658?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+        /><br />
+      </div>
     </div>
-</body>
+  </body>
 </html>
 <script src="signin.js"></script>
