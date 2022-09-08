@@ -138,6 +138,63 @@ p {
   margin-top: 50px;
 }
 
+/* cartpage */
+#cart {
+  color: black;
+  background-color: white;
+  border: none;
+}
+#CartSlide {
+  overflow: auto;
+}
+#offcanvasRight {
+  margin-top: 50px;
+}
+#CartSlide > div {
+  display: grid;
+  width: 90%;
+  margin: auto;
+  grid-template-columns: 40% 60%;
+  gap: 10px;
+}
+#CartSlide hr {
+  width: 90%;
+
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#CartSlide h4 {
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+#CartSlide > div > div > p {
+  margin-bottom: 0px;
+  font-size: 16px;
+}
+#CartSlide > div > div > p:last-of-type {
+  margin-bottom: 10px;
+}
+#CartSlide > div > img {
+  width: 100%;
+}
+#CartSlide > div > div > div {
+  display: flex;
+  gap: 10px;
+  border: 1px solid #f83e47;
+  width: 60%;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 15px;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+#CartSlide > div > div > div > p {
+  margin: auto;
+}
+
+/* cartpage ends */
+
 /* *******Media Query************ */
 @media (max-width: 425px) {
   #navbar {
