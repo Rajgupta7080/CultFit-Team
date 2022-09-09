@@ -1,0 +1,1467 @@
+{
+  "bestseller": [
+    {
+      "id": 1,
+      "cname": "CULTSPORT",
+      "title": "FormFit High Impact Ivy Sports Bra",
+      "desc": "Your perfect training partner, this sports bra with its hidden stabilizer panels promises extra support and bounce control, especially during high impact activities. The power mesh allows for better ventilation and the hook & eye closure adds to your convenience while offering additional adjustability. Time to be fit with FormFit!",
+      "DETAILS": [
+        "Color: Black",
+        "Padded",
+        "High Impact",
+        "Detachable Straps For Criss Cross Option",
+        " Hook And Eye Closure"
+      ],
+      "price": 1499,
+      "strikePrice": 2499,
+      "discount": 40,
+      "thumbnail": "./product_page/10051.jpg",
+      "img1": "./product_page/10051/10001",
+      "img2": "./product_page/10051/10002",
+      "img3": "./product_page/10051/10003",
+      "img4": "./product_page/10051/10004",
+      "img5": "./product_page/10051/10005",
+      "img6": "./product_page/10051/10006"
+    },
+    {
+      "id": 2,
+      "cname": "CULTSPORT",
+      "title": "Vitals Running T-Shirt",
+      "desc": "Run your own race, defy the norms and cook up a storm in this workout T-shirt.Meant to move with you, this combines design and technology to deliver a performance as impressive as yours.",
+      "DETAILS": [
+        " Color: Grey",
+        "Fabric:65% Cotton, 35% Polyester",
+        "Bio Wash",
+        "Breathable Fabric"
+      ],
+      "price": 824,
+      "strikePrice": 1499,
+      "discount": 45,
+      "thumbnail": "./product_page/10052.jpg",
+      "img1": "./product_page/10052/10001",
+      "img2": "./product_page/10052/10002",
+      "img3": "./product_page/10052/10003",
+      "img4": "./product_page/10052/10004",
+      "img5": "./product_page/10052/10005",
+      "img6": "./product_page/10052/10006"
+    },
+    {
+      "id": 3,
+      "cname": "CULTSPORT",
+      "title": "FormFit High Impact Ivy Sports Bra",
+      "desc": "Your perfect training partner, this sports bra with its hidden stabilizer panels promises extra support and bounce control, especially during high impact activities. The power mesh allows for better ventilation and the hook & eye closure adds to your convenience while offering additional adjustability. Time to be fit with FormFit!",
+      "DETAILS": [
+        "Color: Pink",
+        "Padded",
+        "High Impact",
+        "Detachable Straps For Criss Cross Option",
+        "Hook And Eye Closure"
+      ],
+      "price": 1499,
+      "strikePrice": 2499,
+      "discount": 45,
+      "thumbnail": "./product_page/10053.jpg",
+      "img1": "./product_page/10053/10001",
+      "img2": "./product_page/10053/10002",
+      "img3": "./product_page/10053/10003",
+      "img4": "./product_page/10053/10004",
+      "img5": "./product_page/10053/10005",
+      "img6": "./product_page/10053/10006"
+    },
+    {
+      "id": 4,
+      "cname": "CULTSPORT",
+      "title": "LAYR Solid Sweatshirt",
+      "desc": "Beat the chills and say hello to the toasty winters with the Cultsport Lifestyle Sweatshirt. Designed to be the perfect 2nd layer 365 days a year. Its time to get all snuggled up",
+      "DETAILS": [
+        "Colour: Black",
+        "Fabric: 95% Cotton 5% Spandex",
+        "Bio Wash",
+        "Attached closed thumb for better fit"
+      ],
+      "price": 1649,
+      "strikePrice": 3299,
+      "discount": 50,
+      "thumbnail": "./product_page/10006.jpg",
+      "img1": "./product_page/10006/10001",
+      "img2": "./product_page/10006/10002",
+      "img3": "./product_page/10006/10003",
+      "img4": "./product_page/10006/10004",
+      "img5": "./product_page/10006/10005",
+      "img6": "./product_page/10006/10006"
+    },
+    {
+      "id": 5,
+      "cname": "CULTSPORT",
+      "title": "Dance Graphic Print Workout Tshirt",
+      "desc": "Make Your Move with the Signature Branding Logo Play Tshirt. Add the extra groovy vibe your Dance workout wardrobe.",
+      "DETAILS": [
+        "Colour: Black",
+        "Fabric :98% Polyester, 2% Spandex",
+        "Flydry: sweat-wicking tech to keep your workouts dry",
+        "Anti Microbial",
+        "Odour Resistant",
+        "Breathable fabric"
+      ],
+      "price": 879,
+      "strikePrice": 1599,
+      "discount": 45,
+      "thumbnail": "./product_page/10092.jpg",
+      "img1": "./product_page/10092/10001",
+      "img2": "./product_page/10092/10002",
+      "img3": "./product_page/10092/10003",
+      "img4": "./product_page/10092/10004",
+      "img5": "./product_page/10092/10005",
+      "img6": "./product_page/10092/10006"
+    },
+    {
+      "id": 6,
+      "cname": "CULTSPORT",
+      "title": "Play Graphic Workout Tshirt",
+      "desc": "Make Your Move with the Signature Branding Logo Play Tshirt. Add the extra groovy vibe your Dance workout wardrobe.",
+      "DETAILS": [
+        "Colour: Navy",
+        "Fabric :100% Polyester",
+        "Flydry: sweat-wicking tech to keep your workouts dry",
+        "Anti Microbial",
+        "Odour Resistant",
+        "Breathable fabric"
+      ],
+      "price": 899,
+      "strikePrice": 1499,
+      "discount": 40,
+      "thumbnail": "./product_page/10010.jpg",
+      "img1": "./product_page/10010/10001",
+      "img2": "./product_page/10010/10002",
+      "img3": "./product_page/10010/10003",
+      "img4": "./product_page/10010/10004",
+      "img5": "./product_page/10010/10005",
+      "img6": "./product_page/10010/10006"
+    },
+    {
+      "id": 7,
+      "cname": "CULTSPORT",
+      "title": "Vitals Running T-shirt",
+      "desc": "Give fitness fashion a new meaning with the this crew neck running Tshirt. With fabric that lets you breathe without restriction, combines the sweat-wicking Flydry technology and supersoft feel.",
+      "DETAILS": [
+        "Color: Black",
+        "Fabric: 100% Polyester",
+        "Flydry: sweat-wicking tech to keep your workouts dry",
+        "Bio Wash",
+        "Signature Branding Details"
+      ],
+      "price": 839,
+      "strikePrice": 1399,
+      "discount": 40,
+      "thumbnail": "./product_page/10093.jpg",
+      "img1": "./product_page/10093/10001",
+      "img2": "./product_page/10093/10002",
+      "img3": "./product_page/10093/10003",
+      "img4": "./product_page/10093/10004",
+      "img5": "./product_page/10093/10005",
+      "img6": "./product_page/10093/10006"
+    },
+    {
+      "id": 8,
+      "cname": "CULTSPORT",
+      "title": "FormFit Training Sports Bra",
+      "desc": "Move with comfort and ease with this medium support with power mesh ventilation workout bra. Pair them up with your favourite Absolute leggings for a coordinated look.",
+      "DETAILS": [
+        "Color: Teal",
+        "Fabric: 83% Polyester 17% spandex",
+        "Flydry: sweat-wicking tech to keep your workouts dry",
+        "Hi-viz: Reflective print for high visibility in low light",
+        "Medium Impact"
+      ],
+      "price": 1199,
+      "strikePrice": 1999,
+      "discount": 40,
+      "thumbnail": "./product_page/10094.jpg",
+      "img1": "./product_page/10094/10001",
+      "img2": "./product_page/10094/10002",
+      "img3": "./product_page/10094/10003",
+      "img4": "./product_page/10094/10004",
+      "img5": "./product_page/10094/10005",
+      "img6": "./product_page/10094/10006"
+    }
+  ],
+  "Just_launched": [
+    {
+      "id": 1,
+      "cname": "CULTSPORT",
+      "title": "Ombre Yoga Tights",
+      "desc": "Designed with flexibility in mind this high-waisted Made for Yoga Ombre leggings to give you all the technical features you could want for your workout. They have everything you could want: a high waistband, a shaping effect, no camel toe, ultra-flat seams for more comfort.",
+      "DETAILS": [
+        "Colour: Green",
+        "Fabric: 80% Polyester 20% Spandex",
+        "Flydry",
+        "No Waist Slippage",
+        "No Camel toe",
+        "Moisture Wicking, Compression"
+      ],
+      "price": 2219,
+      "strikePrice": 3699,
+      "discount": 40,
+      "thumbnail": "./product_page/10011.jpg",
+      "img1": "./product_page/10011/10001",
+      "img2": "./product_page/10011/10002",
+      "img3": "./product_page/10011/10003",
+      "img4": "./product_page/10011/10004",
+      "img5": "./product_page/10011/10005",
+      "img6": "./product_page/10011/10006"
+    },
+    {
+      "id": 2,
+      "cname": "CULTSPORT",
+      "title": "Marble Print Yoga Tights",
+      "desc": "Designed with flexibility in mind this high-waisted Made for Yoga Marble Printed leggings to give you all the technical features you could want for your workout. They have everything you could want: a high waistband, a shaping effect, no camel toe, ultra-flat seams for more comfort.",
+      "DETAILS": [
+        "Colour: Pink",
+        "Fabric: 80% Polyester 20% Spandex",
+        "Flydry",
+        "No Waist Slippage",
+        "No Camel toe",
+        "Moisture Wicking, Compression"
+      ],
+      "price": 1919,
+      "strikePrice": 3199,
+      "discount": 40,
+      "thumbnail": "./product_page/10017.jpg",
+      "img1": "./product_page/10017/10001",
+      "img2": "./product_page/10017/10002",
+      "img3": "./product_page/10017/10003",
+      "img4": "./product_page/10017/10004",
+      "img5": "./product_page/10017/10005",
+      "img6": "./product_page/10017/10006"
+    },
+    {
+      "id": 3,
+      "cname": "CULTSPORT",
+      "title": "Medium Impact Printed Sports Bra",
+      "desc": "Move with comfort and ease with this medium support racer back detail Made for Yoga workout bra which comes with a feature of removable padding .Add a stylish touch with the soothing print this bra will be the perfect pick.",
+      "DETAILS": [
+        "Colour: Olive",
+        "Fabric: 80% Polyester 20% Spandex",
+        "Flydry",
+        "Slip On",
+        "Compression",
+        "Moisture Wicking, Removable Cups"
+      ],
+      "price": 1679,
+      "strikePrice": 2799,
+      "discount": 40,
+      "thumbnail": "./product_page/10018.jpg",
+      "img1": "./product_page/10018/10001",
+      "img2": "./product_page/10018/10002",
+      "img3": "./product_page/10018/10003",
+      "img4": "./product_page/10018/10004",
+      "img5": "./product_page/10018/10005",
+      "img6": "./product_page/10018/10006"
+    },
+    {
+      "id": 4,
+      "cname": "CULTSPORT",
+      "title": "Medium Impact Printed Sports Bra",
+      "desc": "Move with comfort and ease with this medium support criss cross back detail Made for Yoga workout bra which comes with a feature of removable padding .Add a stylish touch with the soothing print this bra will be the perfect pick.",
+      "DETAILS": [
+        "Colour: Pink",
+        "Fabric: 80% Polyester 20% Spandex",
+        "Flydry",
+        "Slip On",
+        "Compression",
+        "Moisture Wicking, Removable Cups"
+      ],
+      "price": 1679,
+      "strikePrice": 2799,
+      "discount": 40,
+      "thumbnail": "./product_page/10095.jpg",
+      "img1": "./product_page/10095/10001",
+      "img2": "./product_page/10095/10002",
+      "img3": "./product_page/10095/10003",
+      "img4": "./product_page/10095/10004",
+      "img5": "./product_page/10095/10005",
+      "img6": "./product_page/10095/10006"
+    },
+    {
+      "id": 5,
+      "cname": "CULTSPORT",
+      "title": "Medium Impact Printed Sports Bra",
+      "desc": "Move with comfort and ease with this medium support racer back detail Made for Yoga workout bra which comes with a feature of removable padding .Add a stylish touch with the soothing print this bra will be the perfect pick.",
+      "DETAILS": [
+        "Colour: Grey",
+        "Fabric: 80% Polyester 20% Spandex",
+        "Flydry",
+        " Slip On",
+        "Compression",
+        "Moisture Wicking, Removable Cups"
+      ],
+      "price": 1679,
+      "strikePrice": 2799,
+      "discount": 40,
+      "thumbnail": "./product_page/10096.jpg",
+      "img1": "./product_page/10096/10001",
+      "img2": "./product_page/10096/10002",
+      "img3": "./product_page/10096/10003",
+      "img4": "./product_page/10096/10004",
+      "img5": "./product_page/10096/10005",
+      "img6": "./product_page/10096/10006"
+    },
+    {
+      "id": 6,
+      "cname": "CULTSPORT",
+      "title": "Solid Active Tshirt with Logo",
+      "desc": "This performance made with ultra premium and luxuriously soft fabric which is easy on the skin yet delivers ample perfomance feature. Blended with advanced anti-microbial technology, the crew tee is the perfect upgrade for all-day use.",
+      "DETAILS": [
+        "Colour: Black",
+        "Fabric: 78% Nylon 22% Spandex",
+        "Flydry",
+        "Supersoft",
+        "Anti Microbial",
+        "Moisture Wicking"
+      ],
+      "price": 1499,
+      "strikePrice": 2499,
+      "discount": 40,
+      "thumbnail": "./product_page/10097.jpg",
+      "img1": "./product_page/10097/10001",
+      "img2": "./product_page/10097/10002",
+      "img3": "./product_page/10097/10003",
+      "img4": "./product_page/10097/10004",
+      "img5": "./product_page/10097/10005",
+      "img6": "./product_page/10097/10006"
+    },
+    {
+      "id": 7,
+      "cname": "CULTSPORT",
+      "title": "Solid Active Tshirt with Logo",
+      "desc": "This performance made with ultra premium and luxuriously soft fabric which is easy on the skin yet delivers ample perfomance feature. Blended with advanced anti-microbial technology, the crew tee is the perfect upgrade for all-day use.",
+      "DETAILS": [
+        "Colour: Olive",
+        "Fabric: 78% Nylon 22% Spandex",
+        "Flydry",
+        "Supersoft",
+        "Anti Microbial",
+        "Moisture Wicking"
+      ],
+      "price": 1499,
+      "strikePrice": 2499,
+      "discount": 40,
+      "thumbnail": "./product_page/10098.jpg",
+      "img1": "./product_page/10098/10001",
+      "img2": "./product_page/10098/10002",
+      "img3": "./product_page/10098/10003",
+      "img4": "./product_page/10098/10004",
+      "img5": "./product_page/10098/10005",
+      "img6": "./product_page/10098/10006"
+    },
+    {
+      "id": 8,
+      "cname": "CULTSPORT",
+      "title": "Solid Active Tshirt with Logo",
+      "desc": "This performance made with ultra premium and luxuriously soft fabric which is easy on the skin yet delivers ample perfomance feature. Blended with advanced anti-microbial technology, the crew tee is the perfect upgrade for all-day use.",
+      "DETAILS": [
+        "Colour: Lime",
+        "Fabric: 78% Nylon 22% Spandex",
+        "Flydry",
+        "Supersoft",
+        "Anti Microbial",
+        "Moisture Wicking"
+      ],
+      "price": 1499,
+      "strikePrice": 2499,
+      "discount": 40,
+      "thumbnail": "./product_page/11000.jpg",
+      "img1": "./product_page/11000/10001",
+      "img2": "./product_page/11000/10002",
+      "img3": "./product_page/11000/10003",
+      "img4": "./product_page/11000/10004",
+      "img5": "./product_page/11000/10005",
+      "img6": "./product_page/11000/10006"
+    }
+  ],
+  "Trade_mills": [
+    {
+      "id": 1,
+      "cname": "CULTSPORT",
+      "title": "Smartrun c1: Bluetooth enabled treadmill with 6-level incline",
+      "desc": "Fitness just got smarter with the all new cultsport smartrun c1. Designed for the everyday athlete, enjoy India's 1st range of fully smart treadmills with the most interactive workout experience on the market. With a 3HP motor and multi-level manual incline, this is a compact full body cardio experience. Bring home the full smart training experience",
+      "DETAILS": [
+        "Motor Horsepower: 3 HP",
+        "Motor Type: DC Motorized, Belt Size: 1200*460 MM",
+        "Speed: 0.8-14 Km/hr, Max Weight Support: 110 Kgs, Inclination Type: Manual Incline",
+        "Inclination Level: 6, Lubrication: Manual, Pre-set Programs: 12",
+        "Foldable: Hydraulic, Transportation Wheels: Present",
+        "Bluetooth Enabled Treadmill with cultsport App connectivity"
+      ],
+      "price": 35499,
+      "strikePrice": 68999,
+      "discount": 49,
+      "thumbnail": "./product_page/10019.jpg",
+      "img1": "./product_page/10019/10001",
+      "img2": "./product_page/10019/10002",
+      "img3": "./product_page/10019/10003",
+      "img4": "./product_page/10019/10004",
+      "img5": "./product_page/10019/10005",
+      "img6": "./product_page/10019/10006"
+    },
+    {
+      "id": 2,
+      "cname": "FITKIT",
+      "title": "FT200M 4.5HP DC Motorized Treadmill",
+      "desc": "Get 1 Year Free Subscription of cultsport play - An Immersive Fitness Game, Free Diet & Fitness Plan for 1 month along with 1 Doctor Consultation & Personal Video Training Session, Warranty: 1 Year warranty on Motor and Manufacturing Defect, 3 Year Warranty on Frame.",
+      "DETAILS": [
+        "Motor Horsepower: 4.5 HP",
+        "Motor Type: DC Motorized, Belt Size: 1240*420 MM, Speed: 1-16 Km/hr",
+        "Max Weight Support: 110 Kgs, Inclination Type: Auto Incline, Inclination Level: 15",
+        "Lubrication: Auto, Pre-set Programs: 12, Foldable: Hydraulic,Multifunction: Yes,",
+        "Transportation Wheels: Present, Bluetooth Enabled Treadmill with cultsport APP connectivity",
+        "Get free 1 Month unlimited access to all cult centres, gyms and live workout sessions"
+      ],
+      "price": 31999,
+      "strikePrice": 80000,
+      "discount": 60,
+      "thumbnail": "./product_page/10021.jpg",
+      "img1": "./product_page/10021/10001",
+      "img2": "./product_page/10021/10002",
+      "img3": "./product_page/10021/10003",
+      "img4": "./product_page/10021/10004",
+      "img5": "./product_page/10021/10005",
+      "img6": "./product_page/10021/10006"
+    },
+    {
+      "id": 3,
+      "cname": "CULTSPORT",
+      "title": "FT200S 4.5HP DC Motorized Treadmill",
+      "desc": "Get 1 Year Free Subscription of cultsport play - An Immersive Fitness Game, Free Diet & Fitness Plan for 1 month along with 1 Doctor Consultation & Personal Video Training Session, Warranty: 1 Year warranty on Motor and Manufacturing Defect, 3 Year Warranty on Frame.",
+      "DETAILS": [
+        "Motor Horsepower: 4.5 HP",
+        "Motor Type: DC Motorized, Belt Size: 1240*420 MM, Speed: 1-16 Km/hr",
+        "Max Weight Support: 110 Kgs, Inclination Type: Auto Incline, Inclination Level: 15",
+        "Lubrication: Auto, Pre-set Programs: 12, Foldable: Hydraulic,",
+        "Transportation Wheels: Present, Bluetooth Enabled Treadmill with cultsport APP connectivity",
+        "Get free 1 Month unlimited access to all cult centres, gyms and live workout sessions"
+      ],
+      "price": 30874,
+      "strikePrice": 75000,
+      "discount": 59,
+      "thumbnail": "./product_page/10022.jpg",
+      "img1": "./product_page/10022/10001",
+      "img2": "./product_page/10022/10002",
+      "img3": "./product_page/10022/10003",
+      "img4": "./product_page/10022/10004",
+      "img5": "./product_page/10022/10005",
+      "img6": "./product_page/10022/10006"
+    },
+    {
+      "id": 4,
+      "cname": "FITKIT",
+      "title": "FT100M, 3.25HP DC Motorized Treadmill",
+      "desc": "Move with comfort and ease with this medium support criss cross back detail Made for Yoga workout bra which comes with a feature of removable padding .Add a stylish touch with the soothing print this bra will be the perfect pick.",
+      "DETAILS": [
+        "Model FT100M, Motor Horsepower: 3.25 HP",
+        "Motor Type: DC Motorized, Belt Size: 1240*420 MM, Speed: 0.8-14.8 Km/hr, Max Weight Support: 110 Kgs",
+        "Inclination Type: Manual Incline || Inclination Level: 3",
+        "Lubrication: Manual, Pre-set Programs: 12, Foldable: Hydraulic, Multifunction: Yes",
+        "Transportation Wheels: Present, Bluetooth Enabled Treadmill with cultsport APP connectivity.",
+        "Get free 1 Month unlimited access to all cult centres, gyms and live workout sessions"
+      ],
+      "price": 26599,
+      "strikePrice": 55000,
+      "discount": 52,
+      "thumbnail": "./product_page/10023.jpg",
+      "img1": "./product_page/10023/10001",
+      "img2": "./product_page/10023/10002",
+      "img3": "./product_page/10023/10003",
+      "img4": "./product_page/10023/10004",
+      "img5": "./product_page/10023/10005",
+      "img6": "./product_page/10023/10006"
+    },
+    {
+      "id": 5,
+      "cname": "RPM FITNESS",
+      "title": "RPM 10K 2.5HP DC Motorized Treadmill",
+      "desc": "Get 1 Year Free Subscription of cultsport play - An Immersive Fitness Game, Free Diet & Fitness Plan for 1 month along with 1 Doctor Consultation & Personal Video Training Session, Warranty: 1 Year warranty on Motor and Manufacturing Defect, 3 Year Warranty on Frame.",
+      "DETAILS": [
+        "Model RPM10K2.5HP, Motor Horsepower: 2.5 HP",
+        "Motor Type: DC Motorized, Belt Size: 1220*420 MM, Speed: 0.8-14 Km/hr, Max Weight Support: 120 Kgs",
+        "Inclination Type: Manual Incline, Inclination Level: 2",
+        "Lubrication:Easy Lubrication, Pre-set Programs: 12, Foldable: Hydraulic",
+        "Transportation Wheels: Present, Bluetooth Enabled Treadmill with cultsport APP connectivity",
+        "Get free 1 Month unlimited access to all cult centres, gyms and live workout sessions"
+      ],
+      "price": 28689,
+      "strikePrice": 70999,
+      "discount": 60,
+      "thumbnail": "./product_page/10024.jpg",
+      "img1": "./product_page/10024/10001",
+      "img2": "./product_page/10024/10002",
+      "img3": "./product_page/10024/10003",
+      "img4": "./product_page/10024/10004",
+      "img5": "./product_page/10024/10005",
+      "img6": "./product_page/10024/10006"
+    },
+    {
+      "id": 6,
+      "cname": "FITKIT",
+      "title": "FT100S, 3.25HP DC Motorized Treadmill",
+      "desc": "Get 1 Year Free Subscription of cultsport play - An Immersive Fitness Game, Free Diet & Fitness Plan for 1 month along with 1 Doctor Consultation & Personal Video Training Session, Warranty: 1 Year warranty on Motor and Manufacturing Defect, 3 Year Warranty on Frame.",
+      "DETAILS": [
+        "Model FT100S, Motor Horsepower: 3.25 HP",
+        "Motor Type: DC Motorized, Belt Size: 1240*420 MM, Speed: 0.8-14.8 Km/hr, Max Weight Support: 110 Kgs",
+        "Inclination Type: Manual Incline, Inclination Level: 3",
+        "Lubrication: Manual, Pre-set Programs: 12, Foldable: Hydraulic",
+        "Transportation Wheels: Present, Bluetooth Enabled Treadmill with cultsport APP connectivity",
+        "Get free 1 Month unlimited access to all cult centres, gyms and live workout sessions"
+      ],
+      "price": 25364,
+      "strikePrice": 50000,
+      "discount": 49,
+      "thumbnail": "./product_page/10025.jpg",
+      "img1": "./product_page/10025/10001",
+      "img2": "./product_page/10025/10002",
+      "img3": "./product_page/10025/10003",
+      "img4": "./product_page/10025/10004",
+      "img5": "./product_page/10025/10005",
+      "img6": "./product_page/10025/10006"
+    },
+    {
+      "id": 7,
+      "cname": "FITPLUS",
+      "title": "FITPLUS FP03NMSF(4HP) DC Motorized Treadmill",
+      "desc": "Get 1 Year Free Subscription of cultsport play - An Immersive Fitness Game, Free Diet & Fitness Plan for 1 month along with 1 Doctor Consultation & Personal Video Training Session, Warranty: 1 Year warranty on Motor and Manufacturing Defect, 3 Year Warranty on Frame.",
+      "DETAILS": [
+        "Motor Horsepower: 4 HP",
+        "Motor Type: DC Motorized, Belt Size: 1210*410MM, Speed: 1-14 Km/hr, Max Weight Support: 100 Kgs",
+        "Inclination Type: AutoIncline, Inclination Level: 15",
+        "Lubrication: Easy Lubrication , Pre-set Programs: 12",
+        "Foldable: Hydraulic, Transportation Wheels: Present",
+        "Bluetooth Enabled Treadmill with cultsport APP connectivity"
+      ],
+      "price": 25599,
+      "strikePrice": 64750,
+      "discount": 60,
+      "thumbnail": "./product_page/10026.jpg",
+      "img1": "./product_page/10026/10001",
+      "img2": "./product_page/10026/10002",
+      "img3": "./product_page/10026/10003",
+      "img4": "./product_page/10026/10004",
+      "img5": "./product_page/10026/10005",
+      "img6": "./product_page/10026/10006"
+    },
+    {
+      "id": 8,
+      "cname": "RPM FITNESS",
+      "title": "RPM 10K 4.5 HP, CE Certified DC Motorized Treadmill",
+      "desc": "Get 1 Year Free Subscription of cultsport play - An Immersive Fitness Game, Free Diet & Fitness Plan for 1 month along with 1 Doctor Consultation & Personal Video Training Session, Warranty: 1 Year warranty on Motor and Manufacturing Defect, 3 Year Warranty on Frame.",
+      "DETAILS": [
+        "Motor Horsepower: 4.5 HP, Motor Type: DC Motorized",
+        "Belt Size: 1260*460 MM, Speed: 1-16 Km/hr, Max Weight Support: 120 Kgs",
+        "Inclination Type: Manual Incline, Inclination Level: 3",
+        "Lubrication: Manual, Pre-set Programs: 24, Foldable: Hydraulic",
+        "Transportation Wheels: Present, Bluetooth Enabled Treadmill with cultsport APP connectivity",
+        "Get free 1 Month unlimited access to all cult centres, gyms and live workout sessions"
+      ],
+      "price": 27359,
+      "strikePrice": 79999,
+      "discount": 66,
+      "thumbnail": "./product_page/10022.jpg",
+      "img1": "./product_page/10027/10001",
+      "img2": "./product_page/10027/10002",
+      "img3": "./product_page/10027/10003",
+      "img4": "./product_page/10027/10004",
+      "img5": "./product_page/10027/10005",
+      "img6": "./product_page/10027/10006"
+    }
+  ],
+  "SPINBIKES": [
+    {
+      "id": 1,
+      "cname": "CULTSPORT",
+      "title": "Smartbike c1: Bluetooth enabled spin bike with 8-level magnetic resistance",
+      "desc": "Fitness just got smarter with the all new cultsport smartrun c1. Designed for the everyday athlete, enjoy India's 1st range of fully smart treadmills with the most interactive workout experience on the market. With a 3HP motor and multi-level manual incline, this is a compact full body cardio experience. Bring home the full smart training experience",
+      "DETAILS": [
+        "Flywheel Weight: 13.3lbs, Max Weight Support: 110Kgs",
+        "Resistance Type: Magnetic, Resistance Level: 8",
+        "Phone/Tablet Holder: Present, Seat Adjustment: Horizontal & Vertical",
+        "Locking Pedal: Yes",
+        "Transportation Wheels: Present"
+      ],
+      "price": 21499,
+      "strikePrice": 40999,
+      "discount": 48,
+      "thumbnail": "./product_page/11001.jpg",
+      "img1": "./product_page/11001/10001",
+      "img2": "./product_page/11001/10002",
+      "img3": "./product_page/11001/10003",
+      "img4": "./product_page/11001/10004",
+      "img5": "./product_page/11001/10005",
+      "img6": "./product_page/11001/10006"
+    },
+    {
+      "id": 2,
+      "cname": "FITKIT",
+      "title": "Smartbike c2: Bluetooth enabled spin bike with stepless magnetic resistance",
+      "desc": "Fitness just got smarter with the all new cultsport smartbike c2. Designed for the everyday athlete, with the most interactive workout experience on the market, this Bluetooth enabled indoor spin bike with infinite magnetic resistance and a 13.3 lbs flywheel offers serious value. Bring home the full smart training experience:",
+      "DETAILS": [
+        "Flywheel Weight: 13.3lbs, Max Weight Support: 110Kgs",
+        "Resistance Type: Magnetic, Resistance Level: Stepless",
+        "Phone/Tablet Holder: Present, Seat Adjustment: Horizontal & Vertical",
+        "Locking Pedal: Yes",
+        "Transportation Wheels: Present",
+        "Bluetooth Enabled Spin Bike with cultsport APP connectivity"
+      ],
+      "price": 23499,
+      "strikePrice": 44899,
+      "discount": 48,
+      "thumbnail": "./product_page/10028.jpg",
+      "img1": "./product_page/10028/10001",
+      "img2": "./product_page/10028/10002",
+      "img3": "./product_page/10028/10003",
+      "img4": "./product_page/10028/10004",
+      "img5": "./product_page/10028/10005",
+      "img6": "./product_page/10028/10006"
+    },
+    {
+      "id": 3,
+      "cname": "ONEFITPLUS",
+      "title": "OFP-1000, 8 Level Magnetic Resistance Spin Bike",
+      "desc": "Get 1 Year Free Subscription of cultsport play - An Immersive Fitness Game, Free Diet & Fitness Plan for 1 month along with 1 Doctor Consultation & Personal Video Training Session, Warranty: 1 Year warranty on Motor and Manufacturing Defect, 3 Year Warranty on Frame.",
+      "DETAILS": [
+        "Model OFP-1000, Flywheel Weight: 8.8lbs, Max Weight Support: 110Kgs",
+        "Resistance Type: Magnetic, Resistance Level: 8",
+        "Drive Mechanism: Belt, Phone/Tablet Holder: Present",
+        "Seat Adjustment: Horizontal & Vertical, Locking Pedal: Yes, Transportation Wheels: Present",
+        "Bluetooth Enabled Spin Bike with cultsport APP connectivity",
+        "Get free 1 Month unlimited access to all cult centres, gyms and live workout sessions"
+      ],
+      "price": 16149,
+      "strikePrice": 39999,
+      "discount": 60,
+      "thumbnail": "./product_page/10029.jpg",
+      "img1": "./product_page/10029/10001",
+      "img2": "./product_page/10029/10002",
+      "img3": "./product_page/10029/10003",
+      "img4": "./product_page/10029/10004",
+      "img5": "./product_page/10029/10005",
+      "img6": "./product_page/10029/10006"
+    },
+    {
+      "id": 4,
+      "cname": "CULTSPORT",
+      "title": "Smartbike x1 with 22inches HD touchscreen",
+      "desc": "Move with comfort and ease with this medium support criss cross back detail Made for Yoga workout bra which comes with a feature of removable padding .Add a stylish touch with the soothing print this bra will be the perfect pick.",
+      "DETAILS": [
+        "Screen Dimension-21.5”, Gross weight - 68.6kg,",
+        "Operating system - Android, Screen resolution - TFT LCD, 1920*1080, RAM - 2GB,",
+        "Speaker -Yes, Storage - 16GB, External audio- 3.5mm jack, Volume - Up and down Buttons,",
+        "Power Requirement- 12v4A, Wireless and connection - Wifi & Bluetooth, Flywheel - 11kg",
+        "Adjustments - Seat , Handlebar and screen , Belt system -Variable Magnetic Adjustment Quiet Poly-V",
+        "Get free 1 Month unlimited access to all cult centres, gyms and live workout sessions"
+      ],
+      "price": 47000,
+      "strikePrice": 119900,
+      "discount": 61,
+      "thumbnail": "./product_page/10030.jpg",
+      "img1": "./product_page/10030/10001",
+      "img2": "./product_page/10030/10002",
+      "img3": "./product_page/10030/10003",
+      "img4": "./product_page/10030/10004",
+      "img5": "./product_page/10030/10005",
+      "img6": "./product_page/10030/10006"
+    },
+    {
+      "id": 5,
+      "cname": "ONEFITPLUS",
+      "title": "OFP-M1, 100 Level Magnetic Resistance Spin Bike",
+      "desc": "Get 1 Year Free Subscription of cultsport play - An Immersive Fitness Game, Free Diet & Fitness Plan for 1 month along with 1 Doctor Consultation & Personal Video Training Session, Warranty: 1 Year warranty on Motor and Manufacturing Defect, 3 Year Warranty on Frame.",
+      "DETAILS": [
+        "Model OFP-M1, Flywheel Weight: 14.3lbs",
+        "Max Weight Support: 120Kgs, Resistance Type: Magnetic, Resistance Level: 100",
+        "Drive Mechanism: Belt, Phone/Tablet Holder: Present",
+        "Seat Adjustment: Horizontal & Vertical, Locking Pedal: Yes, Transportation Wheels: Present",
+        "Bluetooth Enabled Spin Bike with cultsport APP connectivity",
+        "Get free 1 Month unlimited access to all cult centres, gyms and live workout sessions"
+      ],
+      "price": 19949,
+      "strikePrice": 59999,
+      "discount": 67,
+      "thumbnail": "./product_page/10031.jpg",
+      "img1": "./product_page/10031/10001",
+      "img2": "./product_page/10031/10002",
+      "img3": "./product_page/10031/10003",
+      "img4": "./product_page/10031/10004",
+      "img5": "./product_page/10031/10005",
+      "img6": "./product_page/10031/10006"
+    },
+    {
+      "id": 6,
+      "cname": "ONEFITPLUS",
+      "title": "OFP-1001 Static Handle with Backrest Upright Stationary Exercise Bike",
+      "desc": "Get 1 Year Free Subscription of cultsport play - An Immersive Fitness Game, Free Diet & Fitness Plan for 1 month along with 1 Doctor Consultation & Personal Video Training Session, Warranty: 1 Year warranty on Motor and Manufacturing Defect, 3 Year Warranty on Frame.",
+      "DETAILS": [
+        "Max Weight Support: 100Kgs",
+        "Resistance Type: Direct Contact , Resistance Level: 0",
+        "Drive Mechanism: Belt ,Seat Adjustment: Vertical , Locking Pedal: Yes"
+      ],
+      "price": 6399,
+      "strikePrice": 12000,
+      "discount": 47,
+      "thumbnail": "./product_page/10032.jpg",
+      "img1": "./product_page/10032/10001",
+      "img2": "./product_page/10032/10002",
+      "img3": "./product_page/10032/10003",
+      "img4": "./product_page/10032/10004",
+      "img5": "./product_page/10032/10005",
+      "img6": "./product_page/10032/10006"
+    },
+    {
+      "id": 7,
+      "cname": "ONEFITPLUS",
+      "title": "OFP-1003 Moving Handle with Backrest Upright Stationary Exercise Bike",
+      "desc": "Avail free 12 month cultpass live and get unlimited access to live classes on fitness, dance, meditation, and podcasts on cult, 1 Month Free Diet & Fitness Plan, Free at home installation & post sales support offered through 650+ offices across India, Warranty: 6 Months Domestic Warranty on Manufacturing Defects",
+      "DETAILS": [
+        "Max Weight Support: 100Kgs",
+        "Resistance Type: Direct Contact, Resistance Level: 0",
+        "Drive Mechanism: Belt ,Seat Adjustment: Vertical",
+        "Locking Pedal: Yes"
+      ],
+      "price": 6499,
+      "strikePrice": 12000,
+      "discount": 46,
+      "thumbnail": "./product_page/10033.jpg",
+      "img1": "./product_page/10033/10001",
+      "img2": "./product_page/10033/10002",
+      "img3": "./product_page/10033/10003",
+      "img4": "./product_page/10033/10004",
+      "img5": "./product_page/10033/10005",
+      "img6": "./product_page/10033/10006"
+    },
+    {
+      "id": 8,
+      "cname": "ONEFITPLUS",
+      "title": "OFP-1003 Moving Handle with Backrest Upright Stationary Exercise Bike",
+      "desc": "Avail free 12 month cultpass live and get unlimited access to live classes on fitness, dance, meditation, and podcasts on cult, 1 Month Free Diet & Fitness Plan, Free at home installation & post sales support offered through 650+ offices across India, Warranty: 6 Months Domestic Warranty on Manufacturing Defects",
+      "DETAILS": [
+        "Max Weight Support: 100Kgs",
+        "Resistance Type: Direct Contact, Resistance Level: 0",
+        "Drive Mechanism: Belt ,Seat Adjustment: Vertical",
+        "Locking Pedal: Yes"
+      ],
+      "price": 6499,
+      "strikePrice": 12000,
+      "discount": 46,
+      "thumbnail": "./product_page/10034.jpg",
+      "img1": "./product_page/10034/10001",
+      "img2": "./product_page/10034/10002",
+      "img3": "./product_page/10034/10003",
+      "img4": "./product_page/10034/10004",
+      "img5": "./product_page/10034/10005",
+      "img6": "./product_page/10034/10006"
+    }
+  ],
+  "Cycles": [
+    {
+      "id": 1,
+      "cname": "CULTSPORT",
+      "title": "Rimo 27.5&#34; 21-speed steel MTB (Shimano gears)",
+      "desc": "Fitness just got smarter with the all new cultsport smartrun c1. Designed for the everyday athlete, enjoy India's 1st range of fully smart treadmills with the most interactive workout experience on the market. With a 3HP motor and multi-level manual incline, this is a compact full body cardio experience. Bring home the full smart training experience",
+      "DETAILS": [
+        "Model: Rimo, Color: Yellow",
+        "Frame: Steel, Tire Size: 27.5 Inches",
+        "Gears: 21 Gear Shimano Derailleurs and Shifters",
+        "Gear Type: Thumb Shifters, Front & Rear Brake: Disc Brake",
+        "Suspension: Only Front Suspension, Rim: Double Wall Alloy",
+        "Max Rider Height: 5.5 Ft to 6 Ft"
+      ],
+      "price": 14899,
+      "strikePrice": 39999,
+      "discount": 63,
+      "thumbnail": "./product_page/10035.jpg",
+      "img1": "./product_page/10035/10001",
+      "img2": "./product_page/10035/10002",
+      "img3": "./product_page/10035/10003",
+      "img4": "./product_page/10035/10004",
+      "img5": "./product_page/10035/10005",
+      "img6": "./product_page/10035/10006"
+    },
+    {
+      "id": 2,
+      "cname": "CULTSPORT",
+      "title": "Bolan 27.5&#34; 21-speed steel MTB (Shimano gears)",
+      "desc": "Fitness just got smarter with the all new cultsport smartbike c2. Designed for the everyday athlete, with the most interactive workout experience on the market, this Bluetooth enabled indoor spin bike with infinite magnetic resistance and a 13.3 lbs flywheel offers serious value. Bring home the full smart training experience:",
+      "DETAILS": [
+        "Flywheel Weight: 13.3lbs, Max Weight Support: 110Kgs",
+        "Resistance Type: Magnetic, Resistance Level: Stepless",
+        "Phone/Tablet Holder: Present, Seat Adjustment: Horizontal & Vertical",
+        "Locking Pedal: Yes",
+        "Transportation Wheels: Present",
+        "Bluetooth Enabled Spin Bike with cultsport APP connectivity"
+      ],
+      "price": 23499,
+      "strikePrice": 44899,
+      "discount": 48,
+      "thumbnail": "./product_page/10036.jpg",
+      "img1": "./product_page/10036/10001",
+      "img2": "./product_page/10036/10002",
+      "img3": "./product_page/10036/10003",
+      "img4": "./product_page/10036/10004",
+      "img5": "./product_page/10036/10005",
+      "img6": "./product_page/10036/10006"
+    },
+    {
+      "id": 3,
+      "cname": "ONEFITPLUS",
+      "title": "Neel 26&#34; 21-speed alloy MTB (Shimano gears)",
+      "desc": "Fitness just got smarter with the all new range of cultsport cycles. Designed for the everyday athlete, this fully fledged 21-speed Shimano geared cycle with its light & sturdy alloy frame and the most interactive workout experience on the market, will be your all-weather riding companion . Connect your smartphone/tablet with the cultsport app and unlock:",
+      "DETAILS": [
+        "Model: Neel, Color: White, Frame: Alloy",
+        "Tire Size: 26 Inches, Gears: 21 Gear Shimano Derailleurs and Shifters",
+        "Gear Type: Thumb Shifters",
+        "Front & Rear Brake: Disc Brake",
+        "Suspension: Only Front Suspension",
+        "Rim: Double Wall Alloy, Max Rider Height: 5.5 Ft to 6 Ft."
+      ],
+      "price": 15999,
+      "strikePrice": 43999,
+      "discount": 64,
+      "thumbnail": "./product_page/10037.jpg",
+      "img1": "./product_page/10037/10001",
+      "img2": "./product_page/10037/10002",
+      "img3": "./product_page/10037/10003",
+      "img4": "./product_page/10037/10004",
+      "img5": "./product_page/10037/10005",
+      "img6": "./product_page/10037/10006"
+    },
+    {
+      "id": 4,
+      "cname": "CULTSPORT",
+      "title": "Rimo 27.5&#34; 21-speed steel MTB (Shimano gears)",
+      "desc": "Fitness just got smarter with the all new cultsport smartrun c1. Designed for the everyday athlete, enjoy India's 1st range of fully smart treadmills with the most interactive workout experience on the market. With a 3HP motor and multi-level manual incline, this is a compact full body cardio experience. Bring home the full smart training experience",
+      "DETAILS": [
+        "Model: Rimo, Color: Yellow",
+        "Frame: Steel, Tire Size: 27.5 Inches",
+        "Gears: 21 Gear Shimano Derailleurs and Shifters",
+        "Gear Type: Thumb Shifters, Front & Rear Brake: Disc Brake",
+        "Suspension: Only Front Suspension, Rim: Double Wall Alloy",
+        "Max Rider Height: 5.5 Ft to 6 Ft"
+      ],
+      "price": 14899,
+      "strikePrice": 39999,
+      "discount": 63,
+      "thumbnail": "./product_page/10035.jpg",
+      "img1": "./product_page/10035/10001",
+      "img2": "./product_page/10035/10002",
+      "img3": "./product_page/10035/10003",
+      "img4": "./product_page/10035/10004",
+      "img5": "./product_page/10035/10005",
+      "img6": "./product_page/10035/10006"
+    },
+    {
+      "id": 5,
+      "cname": "CULTSPORT",
+      "title": "Bolan 27.5&#34; 21-speed steel MTB (Shimano gears)",
+      "desc": "Fitness just got smarter with the all new cultsport smartbike c2. Designed for the everyday athlete, with the most interactive workout experience on the market, this Bluetooth enabled indoor spin bike with infinite magnetic resistance and a 13.3 lbs flywheel offers serious value. Bring home the full smart training experience:",
+      "DETAILS": [
+        "Flywheel Weight: 13.3lbs, Max Weight Support: 110Kgs",
+        "Resistance Type: Magnetic, Resistance Level: Stepless",
+        "Phone/Tablet Holder: Present, Seat Adjustment: Horizontal & Vertical",
+        "Locking Pedal: Yes",
+        "Transportation Wheels: Present",
+        "Bluetooth Enabled Spin Bike with cultsport APP connectivity"
+      ],
+      "price": 23499,
+      "strikePrice": 44899,
+      "discount": 48,
+      "thumbnail": "./product_page/10036.jpg",
+      "img1": "./product_page/10036/10001",
+      "img2": "./product_page/10036/10002",
+      "img3": "./product_page/10036/10003",
+      "img4": "./product_page/10036/10004",
+      "img5": "./product_page/10036/10005",
+      "img6": "./product_page/10036/10006"
+    },
+    {
+      "id": 6,
+      "cname": "ONEFITPLUS",
+      "title": "Neel 26&#34; 21-speed alloy MTB (Shimano gears)",
+      "desc": "Fitness just got smarter with the all new range of cultsport cycles. Designed for the everyday athlete, this fully fledged 21-speed Shimano geared cycle with its light & sturdy alloy frame and the most interactive workout experience on the market, will be your all-weather riding companion . Connect your smartphone/tablet with the cultsport app and unlock:",
+      "DETAILS": [
+        "Model: Neel, Color: White, Frame: Alloy",
+        "Tire Size: 26 Inches, Gears: 21 Gear Shimano Derailleurs and Shifters",
+        "Gear Type: Thumb Shifters",
+        "Front & Rear Brake: Disc Brake",
+        "Suspension: Only Front Suspension",
+        "Rim: Double Wall Alloy, Max Rider Height: 5.5 Ft to 6 Ft."
+      ],
+      "price": 15999,
+      "strikePrice": 43999,
+      "discount": 64,
+      "thumbnail": "./product_page/10037.jpg",
+      "img1": "./product_page/10037/10001",
+      "img2": "./product_page/10037/10002",
+      "img3": "./product_page/10037/10003",
+      "img4": "./product_page/10037/10004",
+      "img5": "./product_page/10037/10005",
+      "img6": "./product_page/10037/10006"
+    },
+    {
+      "id": 7,
+      "cname": "CULTSPORT",
+      "title": "Bolan 27.5&#34; 21-speed steel MTB (Shimano gears)",
+      "desc": "Fitness just got smarter with the all new cultsport smartbike c2. Designed for the everyday athlete, with the most interactive workout experience on the market, this Bluetooth enabled indoor spin bike with infinite magnetic resistance and a 13.3 lbs flywheel offers serious value. Bring home the full smart training experience:",
+      "DETAILS": [
+        "Flywheel Weight: 13.3lbs, Max Weight Support: 110Kgs",
+        "Resistance Type: Magnetic, Resistance Level: Stepless",
+        "Phone/Tablet Holder: Present, Seat Adjustment: Horizontal & Vertical",
+        "Locking Pedal: Yes",
+        "Transportation Wheels: Present",
+        "Bluetooth Enabled Spin Bike with cultsport APP connectivity"
+      ],
+      "price": 23499,
+      "strikePrice": 44899,
+      "discount": 48,
+      "thumbnail": "./product_page/10036.jpg",
+      "img1": "./product_page/10036/10001",
+      "img2": "./product_page/10036/10002",
+      "img3": "./product_page/10036/10003",
+      "img4": "./product_page/10036/10004",
+      "img5": "./product_page/10036/10005",
+      "img6": "./product_page/10036/10006"
+    },
+    {
+      "id": 8,
+      "cname": "ONEFITPLUS",
+      "title": "Neel 26&#34; 21-speed alloy MTB (Shimano gears)",
+      "desc": "Fitness just got smarter with the all new range of cultsport cycles. Designed for the everyday athlete, this fully fledged 21-speed Shimano geared cycle with its light & sturdy alloy frame and the most interactive workout experience on the market, will be your all-weather riding companion . Connect your smartphone/tablet with the cultsport app and unlock:",
+      "DETAILS": [
+        "Model: Neel, Color: White, Frame: Alloy",
+        "Tire Size: 26 Inches, Gears: 21 Gear Shimano Derailleurs and Shifters",
+        "Gear Type: Thumb Shifters",
+        "Front & Rear Brake: Disc Brake",
+        "Suspension: Only Front Suspension",
+        "Rim: Double Wall Alloy, Max Rider Height: 5.5 Ft to 6 Ft."
+      ],
+      "price": 15999,
+      "strikePrice": 43999,
+      "discount": 64,
+      "thumbnail": "./product_page/10037.jpg",
+      "img1": "./product_page/10037/10001",
+      "img2": "./product_page/10037/10002",
+      "img3": "./product_page/10037/10003",
+      "img4": "./product_page/10037/10004",
+      "img5": "./product_page/10037/10005",
+      "img6": "./product_page/10037/10006"
+    }
+  ],
+  "Mens": [
+    {
+      "id": 1,
+      "images": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/rb15xtEC9kVCwma2EG7X29PA",
+      "Title": "CULTSPORT",
+      "Para": "Vitals Running T-Shirt",
+      "price": 879,
+      "strikePrice": 1599,
+      "discount": 45
+    },
+    {
+      "id": 2,
+      "images": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/gyEKit98fH6VGSZ2jv1fFkSm",
+      "Title": "CULTSPORTONE",
+      "Para": "Textured Performance Tshirt with Logo",
+      "price": 1199,
+      "strikePrice": 1999,
+      "discount": 40
+    },
+    {
+      "id": 3,
+      "images": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/kCA2rugUPWKLcJFepU65r3Ty",
+      "Title": "CULTSPORT",
+      "Para": "Branding Logo Graphic Tshirt",
+      "price": 879,
+      "strikePrice": 1599,
+      "discount": 45
+    },
+    {
+      "id": 4,
+      "images": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/3BvAwGdmm6TEp86zcaF3gkF5",
+      "Title": "CULTSPORT",
+      "Para": "Dance Graphic Print Workout Tshirt",
+      "price": 1199,
+      "strikePrice": 1999,
+      "discount": 40
+    },
+    {
+      "id": 5,
+      "images": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/GTsdULwpCrv1hFMNDgQ5vrsP",
+      "Title": "CULTSPORT",
+      "Para": "Vitals Lifestyle Polo Tshirt",
+      "price": 1499,
+      "strikePrice": 2499,
+      "discount": 40
+    },
+    {
+      "id": 6,
+      "images": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/koPLqbxY9fKvoS7WjiojFKVg",
+      "Title": "CULTSPORT",
+      "Para": "Vitals Lifestyle Polo Tshirt",
+      "price": 879,
+      "strikePrice": 1599,
+      "discount": 45
+    },
+    {
+      "id": 7,
+      "images": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/koPLqbxY9fKvoS7WjiojFKVg",
+      "Title": "CULTSPORT",
+      "Para": "Vitals Lifestyle Polo Tshirt",
+      "price": 1199,
+      "strikePrice": 1999,
+      "discount": 40
+    },
+    {
+      "id": 8,
+      "images": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/WoJc353LB1KFvhMkU8cGmyj3",
+      "Title": "CULTSPORT",
+      "Para": "Vitals Lifestyle T-Shirt",
+      "price": 879,
+      "strikePrice": 1599,
+      "discount": 45
+    },
+    {
+      "id": 9,
+      "images": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/Ban4au2ihUVE29FdmGTTycgY",
+      "Title": "CULTSPORT",
+      "Para": "Vitals Logo Running T-Shirt",
+      "price": 1499,
+      "strikePrice": 2499,
+      "discount": 40
+    },
+    {
+      "id": 10,
+      "images": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/Yfxf1rcYjWiHBmPU7y61aHoa",
+      "Title": "CULTSPORT",
+      "Para": "Vitals Lifestyle Polo T-Shirt",
+      "price": 879,
+      "strikePrice": 1599,
+      "discount": 45
+    }
+  ],
+  "Labdata": [
+    {
+      "id": 1,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/FitCheck_Magazine-02.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 2,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/mp/diag_pack_Vitamin_Profile_clp.jpg",
+
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 3,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/mp/diag_pack_Thyroid_Screening_clp.jpg",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 4,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/diagnostics/screening-packs/WorkoutWellness_men_magazine_web2.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 5,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/diagnostics/screening-packs/WorkoutWellness_women_magazine_web2.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 6,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/diagnostics/screening-packs/sr_citizen_adv_m_mag.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 7,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/diagnostics/screening-packs/sr_citizen_adv_f_mag.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 8,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/IronScreeningClp122020.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 9,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/WomensHealthScreening_Magazine.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 10,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/diagnostics/screening-packs/PCODMagazineWeb.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 11,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/mp/HaemogramWithCBCClp.jpg",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 12,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/mp/diag_pack_Diabetes_Screening_clp.jpg",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 13,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/LipidScreening_Magazine.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 14,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/ImmunityCcreening_Magazine.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 15,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/CF01032_hero_2.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 16,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/PregnancyScreening_Magazine.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 17,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/mp/diag_pack_Kidney_Screening_clp.jpg",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 18,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/HairFallScreeningClp122019.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 19,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/BoneHealthScreening_Magazine.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 20,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/mp/diag_pack_Liver_Screening_clp.jpg",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 21,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/FeverPanel_Magazine.jpg",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 22,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/Alcohol_magazine.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 23,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/diagnostics/screening-packs/Anemia_Magazine_Web_new.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 24,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/Obesity_Risk_Magazine.jpg",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    }
+  ],
+  "Therapy": [
+    {
+      "id": 1,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_580,ar_2.279,c_fit/dpr_2/image/vm/9355d11a-f088-4f10-b9df-72ea3ecf8e0b.png",
+      "title": "Therapy",
+      "Msign": "—",
+      "des": "Expert who help solve emotional problem ₹699",
+      "Timeimg": "50 Mins Session",
+      "Price": "₹ 1300",
+      "Offer": "₹ 699"
+    },
+    {
+      "id": 2,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_580,ar_2.279,c_fit/dpr_2/image/vm/9ce1d9a2-d3c6-4a19-91bd-028d52f58c84.png",
+      "title": "Couple Therapy",
+      "Msign": "—",
+      "des": "Resolve emotional conflicts in relationship and marriage ₹1250",
+      "Timeimg": "50 Mins Session",
+      "Price": "₹ 1800",
+      "Offer": "₹ 1250"
+    },
+    {
+      "id": 3,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_580,ar_2.279,c_fit/dpr_2/image/vm/5e9f8ee5-83dd-4dca-beca-61885323ce3c.png",
+      "title": "Covid Stress",
+      "Msign": "—",
+      "des": "Seek exoert help from our therapists for coping with isolation and covid",
+      "Timeimg": "50 Mins Session",
+      "Price": "₹ 1300",
+      "Offer": "₹ 699"
+    },
+    {
+      "id": 4,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_580,ar_2.279,c_fit/dpr_2/image/vm/84248218-f8c0-44d8-b2d6-be415b742b9a.png",
+      "title": "Better Sleep",
+      "Msign": "—",
+      "des": "Consult with experts to learn effective strategies for restful sleep and good...",
+      "Timeimg": "50 Mins Session",
+      "Price": "₹ 1300",
+      "Offer": "₹ 699"
+    },
+    {
+      "id": 5,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_580,ar_2.279,c_fit/dpr_2/image/vm/dcd1728e-d7dc-4952-b552-b1b1c97e9ac1.png",
+      "title": "Rise to Confidence",
+      "Msign": "—",
+      "des": "Grow into a more confident and self-assured by talking to our expert ₹699",
+      "Timeimg": "50 Mins Session",
+      "Price": "₹ 1300",
+      "Offer": "₹ 699"
+    },
+    {
+      "id": 6,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_580,ar_2.279,c_fit/dpr_2/image/vm/18a8d3b2-d262-4f78-908b-79a55a40ef68.png",
+      "title": "Thrive at work",
+      "Msign": "—",
+      "des": "Make work fulfilling and meaningful with the help of our experts ₹699",
+      "Timeimg": "50 Mins Session",
+      "Price": "₹ 1300",
+      "Offer": "₹ 699"
+    },
+    {
+      "id": 7,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_580,ar_2.279,c_fit/dpr_2/image/vm/1a2d8f7e-2c24-4cbf-88be-e2cf266dfa23.png",
+      "title": "Healthy Relationship",
+      "Msign": "—",
+      "des": "Understand your relationship and exploring healthy ways of connecting ₹699 ",
+      "Timeimg": "50 Mins Session",
+      "Price": "₹ 1300",
+      "Offer": "₹ 699"
+    },
+    {
+      "id": 8,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_580,ar_2.279,c_fit/dpr_2/image/vm/aebc57c2-ee58-41f7-a854-00fb5c5d55f9.png",
+      "title": "Transform Your Thinking",
+      "Msign": "—",
+      "des": "Manage negative or anxious thoughts or overthinking ₹699",
+      "Timeimg": "50 Mins Session",
+      "Price": "₹ 1300",
+      "Offer": "₹ 699"
+    }
+  ],
+  "Mind": [
+    {
+      "id": 1,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/00504b6d-fa0d-47cf-8cae-8f1f61cdc171",
+      "title": "One Rep at a time",
+      "description": "Join podcast host, Deepak Gopalakrishnan aka Chuck, in his quest to build a fitness habit for life. Tune in every weekday for invigorating discussions on curated health & fitness topics, including interviews with fitness & nutrition experts, sleep scientists, even former Olympians!",
+      "size": "9 Packs"
+    },
+    {
+      "id": 2,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/00a5f2c0-5e37-45fb-b869-f880d17d5763",
+      "title": "Covid Recovery",
+      "description": "It’s time to say goodbye to the physical and mental stress brought upon by this virus. This program focuses on bringing stability back into the body through gentle stretches and a sense of peace into the mind through deep meditation.",
+      "size": "3 Packs"
+    },
+    {
+      "id": 3,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/8e929664-cd36-4b5d-8c6c-ca135c678a84",
+      "title": "Running Program",
+      "description": "Running Program",
+      "size": "1 Pack"
+    },
+    {
+      "id": 4,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/f5e214b7-243b-4fec-b821-8e6400d49213",
+      "title": "5 Minute Meditations",
+      "description": "Panic? Anxiety? We have you all covered with these short 5 minute meditations. Dive in!",
+      "size": "14 Packs"
+    },
+    {
+      "id": 5,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/2688cb1e-3533-484e-b2dc-e83017199315.jpg",
+      "title": "Meditation - Foundation",
+      "description": "Get started with meditation! This series will guide you through the basic skills of meditation and help you explore mindfulness.",
+      "size": "6 Packs"
+    },
+    {
+      "id": 6,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/936125f4-ffc8-4e52-943b-efe9d068b758",
+      "title": "Sleep Stories",
+      "description": "Say goodbye to sleepless nights! Created by Dr.Shyam Bhat, these stories will help you relax to drift into a peaceful and deep sleep.",
+      "size": "2 Packs"
+    },
+    {
+      "id": 7,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/54117647-b2c9-4800-9370-18fb650fe4ba",
+      "title": "Yoga- Pranayama",
+      "description": "This Pranayama series contains breath practices which have the potential to effect the gross body.",
+      "size": "4 Packs"
+    },
+    {
+      "id": 8,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/c86a5d9a-e631-4f51-83eb-5231a27335ac.jpg",
+      "title": "Focus Meditation",
+      "description": "It's the present that matters! Created by Dr.Shyam Bhat, this meditation series will help you bring your attention to the present moment by improving focus and concentration.",
+      "size": "4 Packs"
+    },
+    {
+      "id": 9,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/e93f2cc8-7572-4559-ba11-6642e9dc98f5.jpg",
+      "title": "Stress Reduction Meditation",
+      "description": "Say no to stress with this series! The various packs created by Dr. Shyam Bhat will help you manage stressful thoughts and feel more relaxed.",
+      "size": "8 Packs"
+    },
+    {
+      "id": 10,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/8acb1c22-4cde-45ae-b2f9-14042fdd408c.jpg",
+      "title": "Beat the Stress Program",
+      "description": "Say no to stress with this series! The various packs will help you manage stressful thoughts and feel more relaxed.",
+      "size": "3 Packs"
+    },
+    {
+      "id": 11,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/5992b24c-f970-4beb-a4fe-8f0e265b67d9",
+      "title": "30 Minutes Pranayama",
+      "description": "This will be a half an hour audio-led Pranayama class by Divya Rolla. Breath is life. Most people breathe using a small portion of their lung capacity. Regular practise of these Pranayama sessions will help the practitioner develop a healthy breathing habit which will in-turn help one achieve peace of mind and good health.",
+      "size": "1 Pack"
+    },
+    {
+      "id": 12,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/94cf3985-f59e-48b3-88b3-fb1fef54d39a",
+      "title": "30 Minutes Yoga Nidra",
+      "description": "This will be a half an hour audio-led Yoga NIdra class by Divya Rolla. Yoga Nidra is a powerful practise which has a profound effect on your body and mind. This practise will relax a person on all 3 levels physically, mentally and emotionally. It is one of the most easily accessible ways to reduce stress.",
+      "size": "1 Pack"
+    },
+    {
+      "id": 13,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/b1bc9e1e-22f2-4e93-90ed-73703dcc973d",
+      "title": "Yoga for Relaxation and Stress Relief",
+      "description": "A series which will guide you through asana, pranayama and savasana addressing the body, mind and breath",
+      "size": "1 Pack"
+    },
+    {
+      "id": 14,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/3f6bf321-5c8d-4f12-adbf-5dd60b4f3fec",
+      "title": "Difficult Emotions",
+      "description": "This pack by Prasiddha Ramarao addresses the fact that strong emotions do not have to be scary. Emotions often tell us that we need to take care of ourselves, so denying or suppressing them harms rather than helps us. This series explores six common emotions – often seen as difficult or troublesome.",
+      "size": "1 Pack"
+    },
+    {
+      "id": 15,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/83a5a31b-68f8-4acd-b6ff-d7bb8430ecd5",
+      "title": "Meditation for Kids",
+      "description": "This series led by Prasiddha Ramarao would serve as a wonderful start for your child's meditation journey. The language is simple and engaging and something that would captures a child's imagination.",
+      "size": "4 Packs"
+    },
+    {
+      "id": 16,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/3d8bf8ac-64bf-4fc0-80b0-dc64ba6a831e",
+      "title": "Relationship Healing",
+      "description": "This meditation pack on Relationships created by Spiritual Coach ModMonk Anshul will take you on a journey of bonding with yourself and will help in building a bridge of love, forgiveness, and acceptance with everyone around you.",
+      "size": "1 Pack"
+    },
+    {
+      "id": 17,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/110efd79-97f2-4bda-95f5-694b1284794a",
+      "title": "Falling into Sleep",
+      "description": "If you’ve been struggling to catch some shut eye lately, meditating before bed might help. Insomnia is an unhealthy condition that plagues far too many people. Our radical lifestyle changes have significantly altered our sleep patterns, turning many of us into daytime zombies.",
+      "size": "1 Pack"
+    },
+    {
+      "id": 18,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/a5748b24-ddea-429e-8dea-51fa60c258c6",
+      "title": "Mindfulness in Daily Life",
+      "description": "Mindfulness is the energy of being aware and awake to the present moment. It is the continuous practice of touching life deeply in every moment of daily life.",
+      "size": "1 Pack"
+    },
+    {
+      "id": 19,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/95593272-76b9-4776-bd98-23934db3fc1b",
+      "title": "Saying Yes to Life",
+      "description": "The meditation sessions in this pack helps us take a closer look at our default responses to life's invitations for growth. Saying “yes” to life means a lot of things in a lot of different circumstances.",
+      "size": "1 Pack"
+    },
+    {
+      "id": 20,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/43078998-5c3c-4608-beac-e3eeece27695",
+      "title": "The Confidence Series",
+      "description": "These sessions, curated by Shobhit Raj, will help you build confidence and self-esteem in various aspects of life using breath, introspection, visualization, and affirmations.",
+      "size": "1 Pack"
+    }
+  ]
+}
