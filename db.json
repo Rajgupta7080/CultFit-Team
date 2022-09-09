@@ -1044,5 +1044,424 @@
       "strikePrice": 1599,
       "discount": 45
     }
+  ],
+  "Labdata": [
+    {
+      "id": 1,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/FitCheck_Magazine-02.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 2,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/mp/diag_pack_Vitamin_Profile_clp.jpg",
+
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 3,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/mp/diag_pack_Thyroid_Screening_clp.jpg",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 4,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/diagnostics/screening-packs/WorkoutWellness_men_magazine_web2.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 5,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/diagnostics/screening-packs/WorkoutWellness_women_magazine_web2.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 6,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/diagnostics/screening-packs/sr_citizen_adv_m_mag.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 7,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/diagnostics/screening-packs/sr_citizen_adv_f_mag.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 8,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/IronScreeningClp122020.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 9,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/WomensHealthScreening_Magazine.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 10,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/diagnostics/screening-packs/PCODMagazineWeb.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 11,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/mp/HaemogramWithCBCClp.jpg",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 12,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/mp/diag_pack_Diabetes_Screening_clp.jpg",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 13,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/LipidScreening_Magazine.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 14,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/ImmunityCcreening_Magazine.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 15,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/CF01032_hero_2.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 16,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/PregnancyScreening_Magazine.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 17,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/mp/diag_pack_Kidney_Screening_clp.jpg",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 18,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/HairFallScreeningClp122019.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 19,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/BoneHealthScreening_Magazine.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 20,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/mp/diag_pack_Liver_Screening_clp.jpg",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 21,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/FeverPanel_Magazine.jpg",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 22,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/Alcohol_magazine.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 23,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/diagnostics/screening-packs/Anemia_Magazine_Web_new.png",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    },
+    {
+      "id": 24,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/w_232,ar_0.8,fl_progressive,f_auto,q_auto:eco/dpr_2/image/carefit/bundle/Obesity_Risk_Magazine.jpg",
+      "Price": "Price",
+      "price": "590",
+      "offer": "Offer Price",
+      "Offer": "400"
+    }
+  ],
+  "Therapy": [
+    {
+      "id": 1,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_580,ar_2.279,c_fit/dpr_2/image/vm/9355d11a-f088-4f10-b9df-72ea3ecf8e0b.png",
+      "title": "Therapy",
+      "Msign": "—",
+      "des": "Expert who help solve emotional problem ₹699",
+      "Timeimg": "50 Mins Session",
+      "Price": "₹ 1300",
+      "Offer": "₹ 699"
+    },
+    {
+      "id": 2,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_580,ar_2.279,c_fit/dpr_2/image/vm/9ce1d9a2-d3c6-4a19-91bd-028d52f58c84.png",
+      "title": "Couple Therapy",
+      "Msign": "—",
+      "des": "Resolve emotional conflicts in relationship and marriage ₹1250",
+      "Timeimg": "50 Mins Session",
+      "Price": "₹ 1800",
+      "Offer": "₹ 1250"
+    },
+    {
+      "id": 3,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_580,ar_2.279,c_fit/dpr_2/image/vm/5e9f8ee5-83dd-4dca-beca-61885323ce3c.png",
+      "title": "Covid Stress",
+      "Msign": "—",
+      "des": "Seek exoert help from our therapists for coping with isolation and covid",
+      "Timeimg": "50 Mins Session",
+      "Price": "₹ 1300",
+      "Offer": "₹ 699"
+    },
+    {
+      "id": 4,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_580,ar_2.279,c_fit/dpr_2/image/vm/84248218-f8c0-44d8-b2d6-be415b742b9a.png",
+      "title": "Better Sleep",
+      "Msign": "—",
+      "des": "Consult with experts to learn effective strategies for restful sleep and good...",
+      "Timeimg": "50 Mins Session",
+      "Price": "₹ 1300",
+      "Offer": "₹ 699"
+    },
+    {
+      "id": 5,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_580,ar_2.279,c_fit/dpr_2/image/vm/dcd1728e-d7dc-4952-b552-b1b1c97e9ac1.png",
+      "title": "Rise to Confidence",
+      "Msign": "—",
+      "des": "Grow into a more confident and self-assured by talking to our expert ₹699",
+      "Timeimg": "50 Mins Session",
+      "Price": "₹ 1300",
+      "Offer": "₹ 699"
+    },
+    {
+      "id": 6,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_580,ar_2.279,c_fit/dpr_2/image/vm/18a8d3b2-d262-4f78-908b-79a55a40ef68.png",
+      "title": "Thrive at work",
+      "Msign": "—",
+      "des": "Make work fulfilling and meaningful with the help of our experts ₹699",
+      "Timeimg": "50 Mins Session",
+      "Price": "₹ 1300",
+      "Offer": "₹ 699"
+    },
+    {
+      "id": 7,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_580,ar_2.279,c_fit/dpr_2/image/vm/1a2d8f7e-2c24-4cbf-88be-e2cf266dfa23.png",
+      "title": "Healthy Relationship",
+      "Msign": "—",
+      "des": "Understand your relationship and exploring healthy ways of connecting ₹699 ",
+      "Timeimg": "50 Mins Session",
+      "Price": "₹ 1300",
+      "Offer": "₹ 699"
+    },
+    {
+      "id": 8,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_580,ar_2.279,c_fit/dpr_2/image/vm/aebc57c2-ee58-41f7-a854-00fb5c5d55f9.png",
+      "title": "Transform Your Thinking",
+      "Msign": "—",
+      "des": "Manage negative or anxious thoughts or overthinking ₹699",
+      "Timeimg": "50 Mins Session",
+      "Price": "₹ 1300",
+      "Offer": "₹ 699"
+    }
+  ],
+  "Mind": [
+    {
+      "id": 1,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/00504b6d-fa0d-47cf-8cae-8f1f61cdc171",
+      "title": "One Rep at a time",
+      "description": "Join podcast host, Deepak Gopalakrishnan aka Chuck, in his quest to build a fitness habit for life. Tune in every weekday for invigorating discussions on curated health & fitness topics, including interviews with fitness & nutrition experts, sleep scientists, even former Olympians!",
+      "size": "9 Packs"
+    },
+    {
+      "id": 2,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/00a5f2c0-5e37-45fb-b869-f880d17d5763",
+      "title": "Covid Recovery",
+      "description": "It’s time to say goodbye to the physical and mental stress brought upon by this virus. This program focuses on bringing stability back into the body through gentle stretches and a sense of peace into the mind through deep meditation.",
+      "size": "3 Packs"
+    },
+    {
+      "id": 3,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/8e929664-cd36-4b5d-8c6c-ca135c678a84",
+      "title": "Running Program",
+      "description": "Running Program",
+      "size": "1 Pack"
+    },
+    {
+      "id": 4,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/f5e214b7-243b-4fec-b821-8e6400d49213",
+      "title": "5 Minute Meditations",
+      "description": "Panic? Anxiety? We have you all covered with these short 5 minute meditations. Dive in!",
+      "size": "14 Packs"
+    },
+    {
+      "id": 5,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/2688cb1e-3533-484e-b2dc-e83017199315.jpg",
+      "title": "Meditation - Foundation",
+      "description": "Get started with meditation! This series will guide you through the basic skills of meditation and help you explore mindfulness.",
+      "size": "6 Packs"
+    },
+    {
+      "id": 6,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/936125f4-ffc8-4e52-943b-efe9d068b758",
+      "title": "Sleep Stories",
+      "description": "Say goodbye to sleepless nights! Created by Dr.Shyam Bhat, these stories will help you relax to drift into a peaceful and deep sleep.",
+      "size": "2 Packs"
+    },
+    {
+      "id": 7,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/54117647-b2c9-4800-9370-18fb650fe4ba",
+      "title": "Yoga- Pranayama",
+      "description": "This Pranayama series contains breath practices which have the potential to effect the gross body.",
+      "size": "4 Packs"
+    },
+    {
+      "id": 8,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/c86a5d9a-e631-4f51-83eb-5231a27335ac.jpg",
+      "title": "Focus Meditation",
+      "description": "It's the present that matters! Created by Dr.Shyam Bhat, this meditation series will help you bring your attention to the present moment by improving focus and concentration.",
+      "size": "4 Packs"
+    },
+    {
+      "id": 9,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/e93f2cc8-7572-4559-ba11-6642e9dc98f5.jpg",
+      "title": "Stress Reduction Meditation",
+      "description": "Say no to stress with this series! The various packs created by Dr. Shyam Bhat will help you manage stressful thoughts and feel more relaxed.",
+      "size": "8 Packs"
+    },
+    {
+      "id": 10,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/8acb1c22-4cde-45ae-b2f9-14042fdd408c.jpg",
+      "title": "Beat the Stress Program",
+      "description": "Say no to stress with this series! The various packs will help you manage stressful thoughts and feel more relaxed.",
+      "size": "3 Packs"
+    },
+    {
+      "id": 11,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/5992b24c-f970-4beb-a4fe-8f0e265b67d9",
+      "title": "30 Minutes Pranayama",
+      "description": "This will be a half an hour audio-led Pranayama class by Divya Rolla. Breath is life. Most people breathe using a small portion of their lung capacity. Regular practise of these Pranayama sessions will help the practitioner develop a healthy breathing habit which will in-turn help one achieve peace of mind and good health.",
+      "size": "1 Pack"
+    },
+    {
+      "id": 12,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/94cf3985-f59e-48b3-88b3-fb1fef54d39a",
+      "title": "30 Minutes Yoga Nidra",
+      "description": "This will be a half an hour audio-led Yoga NIdra class by Divya Rolla. Yoga Nidra is a powerful practise which has a profound effect on your body and mind. This practise will relax a person on all 3 levels physically, mentally and emotionally. It is one of the most easily accessible ways to reduce stress.",
+      "size": "1 Pack"
+    },
+    {
+      "id": 13,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/b1bc9e1e-22f2-4e93-90ed-73703dcc973d",
+      "title": "Yoga for Relaxation and Stress Relief",
+      "description": "A series which will guide you through asana, pranayama and savasana addressing the body, mind and breath",
+      "size": "1 Pack"
+    },
+    {
+      "id": 14,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/3f6bf321-5c8d-4f12-adbf-5dd60b4f3fec",
+      "title": "Difficult Emotions",
+      "description": "This pack by Prasiddha Ramarao addresses the fact that strong emotions do not have to be scary. Emotions often tell us that we need to take care of ourselves, so denying or suppressing them harms rather than helps us. This series explores six common emotions – often seen as difficult or troublesome.",
+      "size": "1 Pack"
+    },
+    {
+      "id": 15,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/83a5a31b-68f8-4acd-b6ff-d7bb8430ecd5",
+      "title": "Meditation for Kids",
+      "description": "This series led by Prasiddha Ramarao would serve as a wonderful start for your child's meditation journey. The language is simple and engaging and something that would captures a child's imagination.",
+      "size": "4 Packs"
+    },
+    {
+      "id": 16,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/3d8bf8ac-64bf-4fc0-80b0-dc64ba6a831e",
+      "title": "Relationship Healing",
+      "description": "This meditation pack on Relationships created by Spiritual Coach ModMonk Anshul will take you on a journey of bonding with yourself and will help in building a bridge of love, forgiveness, and acceptance with everyone around you.",
+      "size": "1 Pack"
+    },
+    {
+      "id": 17,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/110efd79-97f2-4bda-95f5-694b1284794a",
+      "title": "Falling into Sleep",
+      "description": "If you’ve been struggling to catch some shut eye lately, meditating before bed might help. Insomnia is an unhealthy condition that plagues far too many people. Our radical lifestyle changes have significantly altered our sleep patterns, turning many of us into daytime zombies.",
+      "size": "1 Pack"
+    },
+    {
+      "id": 18,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/a5748b24-ddea-429e-8dea-51fa60c258c6",
+      "title": "Mindfulness in Daily Life",
+      "description": "Mindfulness is the energy of being aware and awake to the present moment. It is the continuous practice of touching life deeply in every moment of daily life.",
+      "size": "1 Pack"
+    },
+    {
+      "id": 19,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/95593272-76b9-4776-bd98-23934db3fc1b",
+      "title": "Saying Yes to Life",
+      "description": "The meditation sessions in this pack helps us take a closer look at our default responses to life's invitations for growth. Saying “yes” to life means a lot of things in a lot of different circumstances.",
+      "size": "1 Pack"
+    },
+    {
+      "id": 20,
+      "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_212,ar_0.82,c_fill/dpr_2/image/diy/43078998-5c3c-4608-beac-e3eeece27695",
+      "title": "The Confidence Series",
+      "description": "These sessions, curated by Shobhit Raj, will help you build confidence and self-esteem in various aspects of life using breath, introspection, visualization, and affirmations.",
+      "size": "1 Pack"
+    }
   ]
 }
