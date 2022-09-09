@@ -147,12 +147,15 @@ function AddToCart() {
   arr.push(obj);
   localStorage.setItem("cartdata", JSON.stringify(arr));
   showCart(arr);
+  addidtoallitem(arr);
 }
 
+let finalPrice = 0;
 const showCart = (data) => {
   document.getElementById("CartSlide").innerHTML = "";
-  let finalPrice = 0;
-  data.map((elem) => {
+  finalPrice = 0;
+  data.map(function (elem, id) {
+    let id2 = id + "p";
     const hr1 = document.createElement("hr");
     const div = document.createElement("div");
     const img = document.createElement("img");
@@ -169,38 +172,42 @@ const showCart = (data) => {
     const plusminusdiv = document.createElement("div");
     const minus = document.createElement("p");
     minus.innerText = "-";
-    minus.addEventListener("click", () => {
-      mainhu(elem);
-    });
+    minus.style.cursor = "pointer";
+    minus.setAttribute("id", `${id + "m"}`);
+
     const quantity = document.createElement("p");
     quantity.innerText = "1";
+    quantity.setAttribute("id", `${id + "q"}`);
     const plus = document.createElement("p");
     plus.innerText = "+";
-    plus.addEventListener("click", () => {
-      console.log("mmdmmd");
-    });
+    plus.setAttribute("id", `${id2}`);
+    plus.style.cursor = "pointer";
     const hr2 = document.createElement("hr");
     plusminusdiv.append(minus, quantity, plus);
     datadiv.append(h4, title, size, price, plusminusdiv);
     div.append(img, datadiv);
+    div.addEventListener("click", () => {
+      console.log("meee");
+    });
     document.getElementById("CartSlide").append(hr1, div, hr2);
-    // document.getElementById("CartSlide").innerHTML += `<hr />
-    //       <div>
-    //         <img src="${elem.img}" alt="" />
-    //         <div>
-    //           <h4>${elem.cname}</h4>
-    //           <p>${elem.title}</p>
-    //           <p>Size: ${elem.size}</p>
-    //           <p>₹ ${elem.price}</p>
-    //           <div>
-    //             <p id="minus">-</p>
-    //             <p id="quantity">1</p>
-    //             <p id="plus">+</p>
-    //           </div>
-    //         </div>
-    //       </div>
-    //       <hr>`;
-
+    {
+      // document.getElementById("CartSlide").innerHTML += `<hr />
+      //       <div>
+      //         <img src="${elem.img}" alt="" />
+      //         <div>
+      //           <h4>${elem.cname}</h4>
+      //           <p>${elem.title}</p>
+      //           <p>Size: ${elem.size}</p>
+      //           <p>₹ ${elem.price}</p>
+      //           <div>
+      //             <p id="minus">-</p>
+      //             <p id="quantity">1</p>
+      //             <p id="plus">+</p>
+      //           </div>
+      //         </div>
+      //       </div>
+      //       <hr>`;
+    }
     finalPrice += elem.price;
   });
   console.log(finalPrice);
@@ -212,12 +219,47 @@ const showCart = (data) => {
   <button id="buynow">BUY NOW</button>
     </div>`;
 };
+const minusItem = (id) => {
+  let q = document.getElementById(`${id + "q"}`).innerText;
+  q--;
 
-showCart(arr);
-
-// document.getElementById("minus").addEventListener("click", () => {
-//   console.log("mmdmmd");
-// });
-const mainhu = (elem) => {
-  console.log(elem);
+  if (q < 1) {
+    console.log("ab muje dlete kar do");
+    arr.splice(id, 1);
+    localStorage.setItem("cartdata", JSON.stringify(arr));
+    showCart(arr);
+    addidtoallitem(arr);
+  } else {
+    finalPrice = finalPrice + arr[id].price;
+    localStorage.setItem("FinalAmount", finalPrice);
+    document.getElementById("totalprice").innerText = "₹ Total : " + finalPrice;
+    document.getElementById(`${id + "q"}`).innerText = q;
+  }
 };
+const plusItem = (id) => {
+  let q = document.getElementById(`${id + "q"}`).innerText;
+  q++;
+  finalPrice = finalPrice + arr[id].price;
+  localStorage.setItem("FinalAmount", finalPrice);
+  document.getElementById("totalprice").innerText = "₹ Total : " + finalPrice;
+  document.getElementById(`${id + "q"}`).innerText = q;
+};
+
+const addidtoallitem = (arr) => {
+  for (let i = 0; i < arr.length; i++) {
+    document.getElementById(`${i + "m"}`).addEventListener("click", () => {
+      console.log(event.target.id[0]);
+      minusItem(event.target.id[0]);
+    });
+    document.getElementById(`${i + "p"}`).addEventListener("click", () => {
+      console.log(event.target.id[0]);
+      plusItem(event.target.id[0]);
+    });
+  }
+};
+showCart(arr);
+addidtoallitem(arr);
+
+document.getElementById("buynow").addEventListener("click", () => {
+  window.location = "payment.html";
+});

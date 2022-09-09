@@ -134,16 +134,6 @@ p {
   background-color: white;
   border: none;
 }
-#offcanvasRight {
-  margin-top: 50px;
-}
-
-/* cartpage */
-#cart {
-  color: black;
-  background-color: white;
-  border: none;
-}
 #CartSlide {
   overflow: auto;
 }
@@ -192,7 +182,42 @@ p {
 #CartSlide > div > div > div > p {
   margin: auto;
 }
+#CartSlide > div:last-of-type {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  justify-content: center;
+  align-items: center;
+  position: sticky;
 
+  z-index: 1;
+  background-color: white;
+  bottom: 0;
+}
+#total {
+  color: green;
+  font-size: 20px;
+}
+#buynow {
+  width: 90%;
+  background-color: #ff3278;
+  color: white;
+  border: 1px solid black;
+  margin-top: -20px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+/* #slide {
+  display: none;
+  height: 500px;
+  width: 30%;
+  border: 1px solid red;
+  background-color: grey;
+  position: relative;
+  z-index: 1;
+  top: 50px;
+} */
 /* cartpage ends */
 
 /* *******Media Query************ */

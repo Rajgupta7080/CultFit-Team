@@ -344,8 +344,14 @@ a {
   }
 
   /* ****MQ for containers */
+  #container {
+    grid-template-columns: repeat(1, 1fr);
+  }
   #container > div {
     grid-template-columns: repeat(2, 1fr);
+  }
+  .change {
+    display: none;
   }
 }
 @media (min-width: 426px) and (max-width: 768px) {
@@ -392,6 +398,10 @@ a {
     color: white;
     width: 90%;
     background-color: black;
+  }
+
+  .change {
+    display: none;
   }
 
   /* crousel inside MQ */
