@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="form.css">
+    <title>User Information</title>
+</head>
+
+<body>
+    <form action="">
+        <p id="con">Payment Details</p>
+        <p id="mes">Please Enter Correct Details</p>
+        <div id="formcontainer">
+            <div id="nameC"> <label for="">Your Name</label>
+                <input type="text" placeholder="First Name" name="" id="FirstName">
+                <input type="text" placeholder="Last Name" name="" id="LastName">
+            </div>
+            <div id="EmailC">
+                <label for="">
+                    Card Number
+                </label>
+                <input type="text" minlength="16" maxlength="16" placeholder="Enter 16 Digits Only" name="" id="email">
+            </div>
+            <div id="card">
+                <div id="exp"><label for="">Expiry</label>
+                    <input type="text" placeholder="DD/MM/YYYY" name="" id="Expiry">
+                </div>
+                <div id="cv"> <label id="cvvlabel" for="">CVV</label>
+                    <input type="text" placeholder="CVV" name="" id="CVV">
+                </div>
+            </div>
+            <div id="totalamount">
+                <label for="">Amount</label>
+                <input type="text" placeholder="Total Payable Amount" name="" id="amount">
+            </div>
+            <button id="check" type="submit">CHECKOUT</button>
+        </div>
+        <hr>
+    </form>
+</body>
+<script>
+    document.querySelector('form').addEventListener('submit', thank)
+
+    function thank() {
+        alert('Thank you your order is confirmed');
+        window.location.href = 'index.html'
+    }
+</script>
+
+</html>

@@ -9,7 +9,7 @@ body{
     position: relative;
     display: flex;
     justify-content: center;
-    /* top: -800px; */
+    top: -800px;
     width: 100%;
 }
 #img > img{
@@ -21,7 +21,7 @@ body{
     text-align: center;
     margin: auto;
     position: relative;
-    /* top: -1060px; */
+    top: -1060px;
     color: white;
 }
 
@@ -40,8 +40,6 @@ body{
     margin-top: -35px;
     width: 100%;
     overflow: hidden;
-    position: absolute;
-    z-index: 1;
 }
  #arrow{
     font-size: 30px;
@@ -53,7 +51,7 @@ body{
     position: relative;
     /* border: 1px solid red; */
     background-color:#171926;
-    /* top: -1000px; */
+    top: -1000px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     overflow: hidden;
 }
@@ -153,7 +151,7 @@ top: -145px;
     padding: 20px 100px 100px 100px;
 }
 #thirdheader > #gridbox > img{
-    height: 300px;
+    height: 280px;
     width: 240px;
     border-radius: 5px;
 }

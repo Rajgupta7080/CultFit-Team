@@ -1,0 +1,109 @@
+body{
+    background: url(https://q-xx.bstatic.com/xdata/images/hotel/max1500/115211164.jpg?k=39d99ce1cae1063ad32d1fd5bd6c9ccd9a10bc5c1727b5616ef83c3245fd5ea8&o=);
+    /* background: #49b4c2; */
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+form{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    left: 200px;
+    font-weight: 800;
+}
+#con{
+    font-size: 54px;
+}
+ #mes{
+    font-size: 24px;
+    margin-top: -30px;
+}
+#formcontainer{
+    margin-top: 40px;
+}
+label{
+    font-size: 20px;
+    margin-right: 70px;
+    font-weight: 600;
+}
+input{
+    padding: 10px;
+    margin-top: 30px;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* opacity: 0.8; */
+    border: 2px solid black;
+    color: black;
+}
+select{
+    width: 10%;
+    padding: 10px;
+    margin-top: 30px;
+    font-size: 15px;
+    margin-left: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    opacity: 0.8;
+}
+#email{
+    position: relative;
+    right: 30px;
+    width: 24.7%;
+    /* border: 2px solid red; */
+}
+#mobile{
+    margin-left: 35px;
+    width: 11%;
+}
+#FirstName{
+    width: 10.8%;
+    position: relative;
+    right: 5px;
+}
+#LastName{
+    width: 10.8%;
+    position: relative;
+    right: 5px;
+    left: 8.5px;
+}
+
+hr{
+   
+    width: 40.4%;
+    position: relative;
+    right: 30%;
+    margin-top: 0%;
+    border: 1px solid black;
+}
+#Expiry {
+    position: relative;
+    left: 42px ;
+    /* border: 2px solid red; */
+    width: 31.6%;
+}
+#CVV{
+    position: relative;
+    width: 32.7%;
+    /* border: 2px solid red; */
+}
+#check{
+    position: relative;
+    top: 65px;
+    left: 15%;
+    padding: 10px 40px 10px 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: crimson;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+#card{
+    display: flex;
+}
+#cvvlabel{
+    margin-right: 40px;
+}
+#amount{
+    margin-left: 25px;
+    width: 25%;
+}
