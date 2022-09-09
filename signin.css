@@ -1,22 +1,45 @@
 body{
-    margin: 0;
-    padding: 0;
-    background-color: black;
-  }
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  overflow: hidden;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 600;
+}
   #contain{
     display:flex;
-    height: 820px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    height: 780px;
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  */
+  
+  }
+  p a{
+    color: #0084bd;
+    text-decoration: underline;
+  }
+  h2{
+    text-align: center;
+    text-decoration: underline;
+    margin-top: -10px;
+    font-size: 30px;
+  
+  }
+  label{
+    font-size: 17px;
+  }
+  #logo{
+  
+    width: 200px;
+    height: 50px;
   
   } 
    .box{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
     background-color: #0d0f12;
     color: white; 
-    width:26%;
-    height:80%;
-    padding: 70px;
-    padding-left: 100px;
+    width:27%;
+    height:100%;
+    padding: 10px 70px 10px 70px;
+    
   
   }
   .box > img{
@@ -30,28 +53,26 @@ body{
   } */
   input{
     background-color: #0d0f12;
-    /* border:2px solid lightblue; */
-    margin-bottom: 40px ;
-    height: 35px;
-    width: 80%;
+    margin-bottom: 20px ;
+    margin-top: 10px;
+    padding: 10px;
+    width: 350px;
     color: white;
     border-radius: 8px solid lightblue;
-
-    
-    
+  
   } 
   
   input[type= "submit"]{
-    background-color:#0084bd; 
-    border: 0px;
-    border-radius: 2px solid lightblue;
-    height:40px;
-    width: 80%;
+    border: none;
+    height:35px;
     color: white;
-    padding-right: 105px;
-    padding-left: 105px;
-
-    
+    /* padding-right: 105px;
+    padding-left: 105px; */
+  padding: 10px;
+    width: 370px;
+    border-radius: 8px;
+    background: linear-gradient(to right,#F05A28,#EC008C,#28f0ed);
+    font-size: 15px;
   }
   p {
     color: white;
@@ -72,13 +93,16 @@ body{
   } 
   button{
     /* margin-left: 5px; */
-    width: 80%;
-    height:40px;
-    font-size: 14px;
-    /* background-color: gray; */
+    border: none;
+    height:35px;
     color: white;
-    border-radius: 8px solid lightblue;
+    /* padding-right: 105px;
+    padding-left: 105px; */
+  padding: 10px;
+    width: 370px;
+    border-radius: 8px;
     background: linear-gradient(to right,#F05A28,#EC008C,#28f0ed);
+    font-size:  15px;
   } 
 
 

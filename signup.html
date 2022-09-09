@@ -12,34 +12,33 @@
 <body>
     <div id="contain">
         <div class="box">
-            <img
-            src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_75,ar_1,q_auto:eco,dpr_1.25,f_auto,fl_progressive//image/test/brand-logo/curefit-logo-white.svg"
-            alt="name"
-          />
-          <img
-            src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_135,ar_3.55,q_auto:eco,dpr_1.25,f_auto,fl_progressive//image/test/brand-logo/cf-name-white.png"
-            alt="logo"
-          />
+            <img src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_75,ar_1,q_auto:eco,dpr_1.25,f_auto,fl_progressive//image/test/brand-logo/curefit-logo-white.svg"
+                alt="name" />
+            <img id="log"
+                src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_135,ar_3.55,q_auto:eco,dpr_1.25,f_auto,fl_progressive//image/test/brand-logo/cf-name-white.png"
+                alt="logo" />
             <form submit="signin">
                 <h2>Sign Up</h2>
-                Name<br><br>
+                <label for="">Name</label>
                 <input type="name" id="name" placeholder="Enter Your Name" /><br>
-                Email<br><br>
-                <input type="email" id="email" placeholder="Enter Your Email"/><br>
-                Password<br><br>
-                <input type="password" id="password" placeholder="Enter Your Password"/><br>
-                Phone Number<br><br>
-                <input type="phone" id="phone"  placeholder="Enter Your Number"/><br>
-                <input class="submit"  onclick="adduser()"type="submit" value="Sign Up">
-                <p>By signing up, I accept the 
+                <label for="Email">Email</label>
+                <input type="email" id="email" placeholder="Enter Your Email" /><br>
+                <label for="">Password</label>
+                <input type="password" id="password" placeholder="Enter Your Password" /><br>
+                <label for="">Mobile</label>
+                <input type="phone" id="phone" placeholder="Enter Your Number" /><br>
+                <input class="submit" onclick="adduser()" type="submit" value="Sign Up">
+                <p>By signing up, I accept the
                     <a href="#">Terms of Services</a>
                 </p>
                 <p>Already have an account?
-                <a href="signin.html" id="signin">Sign in</a></p>
+                    <a href="signin.html" id="signin">Sign in</a>
+                </p>
             </form>
         </div>
         <div class="backimg">
-            <img src="https://images.unsplash.com/photo-1550345332-09e3ac987658?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" /><br>
+            <img
+                src="https://images.unsplash.com/photo-1550345332-09e3ac987658?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" /><br>
         </div>
     </div>
     <script src="signup.js"></script>
