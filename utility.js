@@ -203,13 +203,13 @@ export const beforeshowdata = (category, line, appendin) => {
   span.innerText = line;
   const h4div = document.createElement("div");
   const i1 = document.createElement("i");
-  i1.setAttribute("class", "fa-solid fa-arrow-left fa-xl");
+  i1.setAttribute("class", "fa-solid fa-arrow-left fa-lg");
   i1.addEventListener("click", () => {
     changedata(category, line, appendin);
   });
 
   const i2 = document.createElement("i");
-  i2.setAttribute("class", "fa-solid fa-arrow-right fa-xl");
+  i2.setAttribute("class", "fa-solid fa-arrow-right fa-lg");
   i2.addEventListener("click", () => {
     changedata(category, line, appendin);
   });
