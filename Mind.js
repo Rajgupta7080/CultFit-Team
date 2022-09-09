@@ -35,7 +35,7 @@ function appendMindData() {
     desce.style.fontSize = '15px'
     desce.style.lineHeight = '22px'
     desce.style.color = '#4e4e4e'
-    desce.style.width = '105%'
+    desce.style.width = '100%'
     let Size = document.createElement('p')
     Size.innerText = el.size
     Size.style.color = '#4e4e4e'

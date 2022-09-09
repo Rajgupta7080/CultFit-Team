@@ -16,10 +16,8 @@ function append() {
   console.log(therapy)
   therapy.map((el) => {
     const main_div = document.createElement('div')
-    const Image = document.createElement('img')
-    Image.src = el.image
-    Image.id = 'DataImg'
-    Image.style.width = '650px'
+    main_div.id = 'mainDv'
+
     const title = document.createElement('h2')
     title.innerText = el.title
     const sign = document.createElement('p')
@@ -30,12 +28,12 @@ function append() {
     const desc = document.createElement('p')
     desc.innerText = el.des
     desc.style.color = '#404040'
-    // desc.style.marginBottom = '-5px'
-    // desc.style.fontSize = '12px'
+    desc.style.marginBottom = '-5px'
+    desc.style.fontSize = '12px'
     const time = document.createElement('p')
     time.innerText = el.Timeimg
     time.style.color = '#404040'
-    // time.style.marginLeft = '24px'
+    time.style.marginLeft = '24px'
     const moneyDiv = document.createElement('div')
     const price = document.createElement('p')
     price.innerText = el.Price
@@ -49,10 +47,8 @@ function append() {
     moneyDiv.style.columnGap = '10px'
     main_div.append(title, sign, desc, time, moneyDiv)
     // main_div.style.border = '2px solid blue'
-    // main_div.style.width = '44%'
-    // main_div.style.marginTop = '-250px'
-    document.getElementById('Therapypage').append(Image)
-    document.getElementById('TherapyData').append(main_div)
+
+    document.getElementById('Therapypage').append(main_div)
   })
 }
 append()

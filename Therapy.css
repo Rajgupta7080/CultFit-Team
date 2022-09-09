@@ -192,3 +192,10 @@
     width: 100%;
     margin-top: 50px;
 }
+#mainDv{
+    border: 2px solid red;
+    row-gap: 30px;
+    border-radius: 10px;
+    padding: 20px;
+    background-image: url(https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,ar_2.279,c_fit/dpr_2/image/vm/aebc57c2-ee58-41f7-a854-00fb5c5d55f9.png);
+}
