@@ -1,0 +1,199 @@
+#footer{
+    background-color: black;
+    display: flex;
+    padding: 120px 120px 40px 120px;
+    display: flex;
+    column-gap: 10px;
+}
+#footer>#img_des{
+    /* border: 5px solid crimson; */
+    font-size: 12px;
+    font-family: Inter-Regular,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+    margin-right: 60px;
+    margin-top: 40px;
+}
+#footer>#img_des>img{
+    width: 180px;
+    margin-left: 20px;
+}
+#footer>#img_des>p{
+    letter-spacing: 0.5px;
+    line-height: 16px;
+    letter-spacing: 0.5px;
+    line-height: 22px;
+    width: 400px;
+    margin-top: 30px;
+    font-weight: 900;
+}
+#footer>#line{
+    /* border: 5px solid crimson; */
+    margin-top: 3px;
+    width: 25%;
+}
+#footer>#line>#line1{
+    font-size: 15px;
+    line-height: 40px;
+}
+#footer>#lineSec{
+    /* border: 5px solid crimson; */
+    position: relative;
+    bottom: 20px;
+    width: 16%;
+    top: 0px;
+}
+#footer>#lineSec>#line1{
+    font-size: 15px;
+    line-height: 50px;
+    margin-bottom: -12px;
+}
+#footer>#linethird{
+    /* border: 5px solid crimson; */
+    position: relative;
+    bottom: 12px;
+    top: 0px;
+    width: 20%;
+}
+#footer>#linethird>#line1{
+    font-size: 15px;
+    line-height: 47px;
+}
+#footer>#linefour{
+    /* border: 5px solid crimson; */
+    position: relative;
+    left: 60px;
+    /* top: -20px; */
+
+}
+#footer>#linefour>#apple,#footer>#linefour>#google{
+width: 200px;
+height: 60px;
+margin-top: 20px;
+margin-left: 30px;
+}
+#footer>#linefour>#social{
+    display: flex;
+    gap: 15px;
+    margin-top:50px;
+}
+#footer>#linefour>#social>img{
+    width: 35px;
+}
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    #footer{
+        background-color: black;
+        display: flex;
+        padding: 120px 120px 40px 120px;
+        display: flex;
+        column-gap: 10px;
+        width: 116.5%;
+    }
+}
+@media screen and (min-width: 427px) and (max-width: 768px) {
+    #footer{
+        background-color: black;
+        display: grid;
+        padding: 120px 120px 40px 120px;
+        row-gap: 20px;
+        width: 132.8%;
+    }
+    #footer>#linefour>#apple,#footer>#linefour>#google{
+        width: 200px;
+        height: 60px;
+        margin-top: 20px;
+        margin-left: 30px;
+        }
+        #footer>#linefour>#social{
+            display: flex;
+            gap: 15px;
+            margin-top:50px;
+            margin-left: 30px;
+        }
+        #footer>#linefour>#social>img{
+            width: 35px;
+        }
+        #linefour{
+            /* border: 2px solid red; */
+            margin-left: -110px;
+        }
+}
+@media screen and (min-width: 0px) and (max-width: 425px){
+    #footer{
+        background-color: black;
+        display: grid;
+        padding: 120px 120px 40px 120px;
+        row-gap: 20px;
+        width: 185.4%;
+    }
+    #footer>#linefour>#apple,#footer>#linefour>#google{
+        width: 250px;
+        height: 80px;
+        margin-top: 20px;
+        margin-left: 50px;
+        /* border: 2px solid red; */
+        }
+        #footer>#linefour>#social{
+            display: flex;
+            gap: 15px;
+            margin-top:50px;
+            /* border: 2px solid red; */
+            margin-left: 50px;
+        }
+        #footer>#linefour>#social>img{
+            width: 35px;
+        }
+        #linefour{
+            /* border: 2px solid red; */
+            margin-left: -110px;
+        }
+        #footer>#img_des>img{
+            width: 250px;
+            margin-left: 20px;
+        }
+        #footer>#img_des>p{
+            font-size: 30px;
+            letter-spacing: 0.5px;
+            line-height: 16px;
+            letter-spacing: 0.5px;
+            line-height: 40px;
+            width: 700px;
+            /* border: 2px solid red; */
+            margin-top: 30px;
+            font-weight: 900;
+            margin-left: 20px;
+        }
+        #footer>#line{
+            /* border: 5px solid crimson; */
+            margin-top: 3px;
+            width: 60%;
+            margin-left: 20px;
+        }
+        #footer>#line>#line1{
+            font-size: 25px;
+            line-height: 40px;
+        }
+        #footer>#lineSec{
+            /* border: 5px solid crimson; */
+            position: relative;
+            bottom: 20px;
+            width: 60%;
+            top: 0px;
+            margin-left: 20px;
+        }
+        #footer>#lineSec>#line1{
+            font-size: 25px;
+            line-height: 50px;
+            margin-bottom: -12px;
+        }
+        #footer>#linethird{
+            /* border: 5px solid crimson; */
+            position: relative;
+            bottom: 12px;
+            top: 0px;
+            width: 60%;
+            margin-left: 20px;
+        }
+        #footer>#linethird>#line1{
+            font-size: 25px;
+            line-height: 47px;
+        }
+}

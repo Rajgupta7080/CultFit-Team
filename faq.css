@@ -1,0 +1,122 @@
+#faq {
+    width: 100%;
+    margin: auto;
+    /* height: 100vw; */
+    margin-top:50px ;
+    /* border: 1px solid blue; */
+    background-color: #161923;
+}
+
+#faqContainer {
+    width: 85%;
+    margin: auto;
+    /* border: 1px solid blue; */
+    padding: 60px;
+}
+#f{
+    font-size: 60px;
+    color: white;
+}
+
+#parent>div {
+    border-bottom: 1px solid silver;
+}
+
+#flex1,
+#flex2,
+#flex3,
+#flex4,
+#flex5,
+#flex6,
+#flex7,
+#flex8,
+#flex9,
+#flex10,
+#flex11,
+#flex12 {
+    display: flex;
+    justify-content: space-between;
+    /* margin: 30px 0 ; */
+}
+
+#parent>div>div>p{
+    font-size: 20px;
+    font-family: Inter-Medium, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    
+}
+
+#parent>div> :last-child {
+    font-size: 15px;
+    font-family: Inter-Medium, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+
+
+}
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    #faq {
+        width: 140%;
+        margin: auto;
+        /* height: 100vw; */
+        margin-top:50px ;
+        /* border: 1px solid blue; */
+        background-color: #161923;
+    }
+    #flex1,
+#flex2,
+#flex3,
+#flex4,
+#flex5,
+#flex6,
+#flex7,
+#flex8,
+#flex9,
+#flex10,
+#flex11,
+#flex12 {
+    display: flex;
+    justify-content: space-between;
+    /* margin: 30px 0 ; */
+}
+
+#parent>div>div>p{
+    font-size: 25px;
+    font-family: Inter-Medium, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    
+}
+
+#parent>div> :last-child {
+    font-size: 20px;
+    font-family: Inter-Medium, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+
+
+}
+ 
+}
+@media screen and (min-width: 427px) and (max-width: 768px) {
+    #faq {
+        width: 163.9%;
+    }
+    
+    
+    #parent>div>div>p{
+        font-size: 30px;
+     }
+    
+    #parent>div> :last-child {
+        font-size: 25px;
+    }
+}
+
+@media screen and (min-width: 0px) and (max-width: 425px){
+    #faq {
+        width: 241.8%;
+    }
+    
+    
+    #parent>div>div>p{
+        font-size: 30px;
+     }
+    
+    #parent>div> :last-child {
+        font-size: 25px;
+    }
+}
