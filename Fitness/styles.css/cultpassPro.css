@@ -1,0 +1,135 @@
+*{
+    font-family: 
+    Inter-Medium, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+}
+#cultPro {
+   
+    /* border:1px solid red; */
+    width: 100%;
+    height: 40vw;
+    
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.cultProContainer{
+    display: flex;
+   
+    /* border:1px solid yellow; */
+    height: 40vw;
+  
+
+}
+.leftDiv{
+    /* border:1px solid crimson; */
+    width:48%;
+    margin:30px 100px;
+    margin-right: 0;
+    /* height: 40vw; */
+    /* position:relative; */
+  
+}
+.leftDiv div{
+    margin-top:10px;
+}
+.posterParent{
+    /* border:1px solid red; */
+    width: 50%;
+}
+
+.h3Div>h3{
+    font-size: 50px; 
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+.h5Div{
+    margin-left: 30px;
+}
+h5{
+    color: white;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+.posterChild{
+    /* border:1px solid green; */
+    height: 40vw;
+}
+.posterChild>img{
+    width:100%;
+    height: 40vw;
+}
+.btnParent{
+    display: flex;
+    gap:10px;
+    margin-top: 50px;
+}
+.btnDiv button{
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 900;
+    border: none;
+}
+.btnParent>div:first-child>a>button{
+    color: white;
+    background-color: hsl(210, 6%, 21%);
+}
+.btnParent>div:first-child>a>button:hover{
+    background-color: #3f4346
+}
+
+.btnParent>div:last-child>a>button{
+   color:rgb(201, 48, 74);
+  
+   padding: 10px 30px;
+   background-color: white;
+}
+.btnParent>div:last-child>a>button:hover{
+    color: black;
+}
+button{
+    padding: 6px;
+    border-radius:3px ;
+}
+.featureIcon>img{
+    width: 55px;
+    height: 55px;
+    margin-top: 30px;
+    margin-right: 15px;
+    margin-bottom: 20px;
+}
+.priceCard{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.featureSec{
+    margin-top: 30px;
+}
+.priceCardDiv{
+    padding: 10px;
+}
+.priceBtn{
+    margin-top: 30px;
+}
+.priceBtn>a>button{
+  color:rgb(201, 48, 74);
+}
+.priceBtn>a>button:hover{
+    color:black;
+}
+.strike{
+    text-decoration: line-through;
+    margin-bottom: 5px;
+}
+
+.imgCardDown>button{
+    color:white;
+   
+    border: none;
+    padding: 8px 20px;
+    background-color: hsl(210, 6%, 21%);
+}
+.imgCardDown>button:hover{
+    background-color: #3f4346 ;
+}
