@@ -1,6 +1,6 @@
 async function Therapydata() {
   try {
-    const url = `http://localhost:3000/Therapy`
+    const url = `http://localhost:8004/Therapy`
     const res = await fetch(url)
     const data = await res.json()
     console.log(data)

@@ -25,18 +25,17 @@ updateClock()
 
 async function getdata() {
   try {
-    const url = `http://localhost:3000/Labdata`
+    const url = `http://localhost:8004/Labdata`
     const res = await fetch(url)
     const data = await res.json()
-    console.log(data)
-    localStorage.setItem('Labdata', JSON.stringify(data))
+
+    appendData(data)
   } catch (error) {
     console.log(error)
   }
 }
 getdata()
-function appendData() {
-  const labdata = JSON.parse(localStorage.getItem('Labdata')) || []
+function appendData(labdata) {
   labdata.map((el) => {
     let main_div = document.createElement('div')
     main_div.id = 'mac'
@@ -70,7 +69,7 @@ function appendData() {
     document.getElementById('labImg').append(main_div)
   })
 }
-appendData()
+
 document.getElementById('flex1').addEventListener('click', p1)
 document.getElementById('flex2').addEventListener('click', p2)
 document.getElementById('flex3').addEventListener('click', p3)
