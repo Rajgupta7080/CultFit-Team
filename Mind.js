@@ -1,18 +1,17 @@
 async function getMindData() {
   try {
-    const url = `http://localhost:3000/Mind`
+    const url = `http://localhost:8004/Mind`
     const res = await fetch(url)
     const Minddata = await res.json()
-    console.log(Minddata)
-    localStorage.setItem('MindData', JSON.stringify(Minddata))
+    // return Minddata
+    appendMindData(Minddata)
   } catch (error) {
     console.log(error, 'Error')
   }
 }
 getMindData()
 
-function appendMindData() {
-  const mind = JSON.parse(localStorage.getItem('MindData'))
+function appendMindData(mind) {
   mind.map((el) => {
     let main_div = document.createElement('div')
     main_div.style.display = 'flex'
@@ -45,4 +44,3 @@ function appendMindData() {
     document.getElementById('MindImg').append(main_div)
   })
 }
-appendMindData()

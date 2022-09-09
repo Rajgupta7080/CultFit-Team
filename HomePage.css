@@ -1,0 +1,306 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#navbar {
+    background: none;
+}
+#img{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    /* top: -800px; */
+    width: 100%;
+}
+#img > img{
+    width: 100%;
+}
+#thought{
+    /* border: 1px solid red; */
+    width: 40%;
+    text-align: center;
+    margin: auto;
+    position: relative;
+    /* top: -1060px; */
+    color: white;
+}
+
+#headerDiv > #thought > button{
+    padding: 10px 15px 10px 15px;
+    border-radius: 5px;
+    border: none;
+    background-color: white;
+    color:  #F06055;
+    font-weight: 800;
+}
+#h2{
+    margin-top: -13px;
+}
+#headerDiv{
+    margin-top: -35px;
+    width: 100%;
+    overflow: hidden;
+    position: absolute;
+    z-index: 1;
+}
+ #arrow{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+ }
+#secondheader{
+    width: 100%;
+    position: relative;
+    /* border: 1px solid red; */
+    background-color:#171926;
+    /* top: -1000px; */
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    overflow: hidden;
+}
+#secondheader > #boxes {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0px 100px 0px 100px;
+}
+#secondheader > #boxes >#box1{
+    border: 1px solid whitesmoke;
+    width: 250px;
+    height: 150px;
+    border-radius: 10px;
+} 
+#imgflex1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    padding: 0px 100px 0px 100px;
+    
+}
+#imgflex1 > :nth-child(1){
+ width: 280px;
+ height: 180px;
+ border-radius: 10px;
+}
+#imgflex1 > :nth-child(2){
+    width: 280px;
+    height: 180px;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+#y{
+    /* border: 2px solid red; */
+    width: fit-content;
+    text-align: center;
+    margin: auto;
+    font-size: 36px;
+    color: white;
+    margin-top: -30px;
+}
+#y > #word2{
+    margin-top: -53px;
+}
+#imgflex2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    padding: 0px 30px 0px 30px;
+    
+}
+#imgflex2 > :nth-child(1){
+ width: 280px;
+ height: 180px;
+ border-radius: 10px;
+position: relative;
+top: -100px;
+}
+#imgflex2 > :nth-child(2){
+    width: 280px;
+    height: 180px;
+    border-radius: 10px;
+    margin-top: 40px;
+    position: relative;
+top: -50px;
+}
+#imgflex2 > :nth-child(3){
+    width: 280px;
+    height: 180px;
+    border-radius: 10px;
+    margin-top: 40px;
+    position: relative;
+top: -145px;
+}
+#thirdheader > h2{
+    text-align: center;
+    font-size: 35px;
+    color: #A7a8ab;
+    margin-top: 6%;
+}
+#thirdheader > h1{
+    width: fit-content;
+    text-align: center;
+    margin: auto;
+    font-size: 76px;
+    color: white;
+    margin-top: -30px;
+}
+#thirdheader > #gridbox{
+    opacity: 0.7;
+    background-image: url(https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_800,ar_1,q_auto:eco,dpr_1,f_auto,fl_progressive//image/test/gradient-circle/golden-blur-circle.svg);
+    background-repeat: no-repeat;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    column-gap: 15px;
+    row-gap: 50px;
+    padding: 20px 100px 100px 100px;
+}
+#thirdheader > #gridbox > img{
+    height: 300px;
+    width: 240px;
+    border-radius: 5px;
+}
+#fourthheader > h2{
+    text-align: center;
+    font-size: 75px;
+    color: white;
+}
+#fourthheader > h4{
+    color: #3888ff;
+    text-align: center;
+    font-size: 20px;
+}
+#fourthheader > #flexbox{
+    background-image: url(https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_700,ar_1,q_auto:eco,dpr_1,f_auto,fl_progressive//image/test/gradient-circle/pink-blur-circle.svg);
+    background-repeat: no-repeat;
+    display: flex;
+    column-gap: 60px;
+    justify-content: center;
+    margin-top: 45px;
+    align-items: center;
+}
+#fourthheader > #flexbox >#box img{
+    width: 330px;
+    height: 270px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s all ease-in-out;
+}
+
+#innerdata{
+    margin-top: -110px;
+    color: white;
+    margin-left: 25px;
+}
+#innerdata > h4{
+    margin-bottom: -25px;
+    margin-left: 3px;
+}
+#innerdata > #Elite{
+color: #Ffd67c;
+font-size: 38px;
+letter-spacing: 1px;
+}
+#innerdata > #Pro{
+    color: #babac0;
+    font-size: 38px;
+    letter-spacing: 1px;
+}
+#innerdata > #Live{
+    color: #D56bb8;
+    font-size: 38px;
+    letter-spacing: 1px;
+}
+#data > #alldata{
+    /* border: 2px solid red; */
+    margin-top: 40px;
+    margin-bottom: 140px;
+}
+#data > #alldata > h3{
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: white;
+    font-size: 20px;
+}
+li{
+    margin-bottom: 18px;
+    letter-spacing: 1px;
+    font-weight: 700;
+    color: #Bbbabe;
+}
+#data > #button{
+    /* border: 2px solid royalblue; */
+    display: flex;
+    column-gap: 15px;
+    position: relative;
+}
+#data > #button > :nth-child(1){
+    padding: 12px 30px 12px 30px;
+    color: white;
+    background-color:  #2f313c;
+    border: none;
+    border-radius: 6px;
+    font-weight: 900;
+    cursor: pointer;
+}
+#data > #button > :nth-child(2){
+    padding: 12px 30px 12px 30px;
+    color: crimson;
+    background-color: #Ffffff;
+    border: none;
+    border-radius: 6px;
+    font-weight: 900;
+    cursor: pointer;
+}
+#fifthdiv{
+    height: 700px;
+    /* background-image: url(https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_700,ar_1,q_auto:eco,dpr_1,f_auto,fl_progressive//image/test/gradient-circle/pink-blur-circle.svg); */
+    /* border: 1px solid red; */
+    padding: 70px;
+    margin-left: 40px;
+    margin-top: 70px;
+
+}
+#fifthdiv > #innerdiv1{
+    margin-left: 90px;
+    margin-bottom: 40px;
+    height: 300px;
+    /* border: 1px solid red; */
+    display: grid;
+    row-gap: 290px;
+    grid-template-columns: repeat(2,1fr);
+    /* background-image: url(https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_700,ar_1,q_auto:eco,dpr_1,f_auto,fl_progressive//image/test/gradient-circle/aqua-blur-circle.svg); */
+}
+#fi > h1{
+    margin-top: -330px;
+    margin-left: 20px;
+  color: white;
+}
+#fi>h3{
+    margin-left: 20px;
+    color: white;
+}
+#se > h1{
+    margin-top: -330px;
+    margin-left: 20px;
+  color: white;
+}
+#se>h3{
+    margin-left: 20px;
+    color: white;
+}
+#th > h1{
+    margin-top: -330px;
+    margin-left: 20px;
+  color: white;
+}
+#th>h3{
+    margin-left: 20px;
+    color: white;
+}
+#fo > h1{
+    margin-top: -330px;
+    margin-left: 20px;
+  color: white;
+}
+#fo>h3{
+    margin-left: 20px;
+    color: white;
+}
