@@ -261,5 +261,5 @@ showCart(arr);
 addidtoallitem(arr);
 
 document.getElementById("buynow").addEventListener("click", () => {
-  window.location = "payment.html";
+  window.location = "form.html";
 });

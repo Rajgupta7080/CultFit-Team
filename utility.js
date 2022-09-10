@@ -173,7 +173,7 @@ export const crousel = `
       </button>
     </div>`;
 export const getdata = async (name) => {
-  const data = await fetch(`http://localhost:8004/${name}`);
+  const data = await fetch(`https://cureclone.herokuapp.com/${name}`);
   const data2 = await data.json();
   return data2;
 };
