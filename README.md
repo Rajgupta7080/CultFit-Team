@@ -4,5 +4,4 @@ Its a fitness app
 # Suraj Yadav
 # Komal Kumar
 # Anupriya
-# Yash
 # Raj Gupta
