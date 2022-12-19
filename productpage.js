@@ -148,6 +148,9 @@ function AddToCart() {
   localStorage.setItem("cartdata", JSON.stringify(arr));
   showCart(arr);
   addidtoallitem(arr);
+  document.getElementById("buynow").addEventListener("click", () => {
+    window.location = "form.html";
+  });
 }
 
 let finalPrice = 0;
